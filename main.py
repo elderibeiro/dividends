@@ -73,7 +73,13 @@ for batch in stocks_batch:
         dfs.append(df)
 
 #concatenate all the dataframes in the list into a single dataframe
-final_df = pd.concat(dfs, ignore_index=True)
+concat_df = pd.concat(dfs, ignore_index=True)
+
+# Convert the 'date' column to a datetime format
+concat_df['dividendDate'] = pd.to_datetime(concat_df['dividendDate'], errors='coerce')
+
+# Filter out records that are older than 2022 or have an empty date
+final_df = concat_df[(concat_df['dividendDate'].notnull()) & (concat_df['dividendDate'].dt.year >= 2022)]
 
 #print the resulting dataframe info
 print(final_df.info())
