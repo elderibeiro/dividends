@@ -82,4 +82,4 @@ print(final_df.info())
 print(final_df.sort_values(by=['trailingAnnualDividendYield'], ascending=False).head(50))
 
 #save the dataframe to a csv file
-final_df.to_csv('stock_dividends.csv', index=False)
+final_df.to_csv('dividends.csv', index=False)
