@@ -70,9 +70,9 @@ for batch in stocks_batch:
             "symbol": [symbol],
             "fullExchangeName": [fullExchangeName],
             "dividendDate": [dividendDate],
-            "trailingAnnualDividendRate": [trailingAnnualDividendRate],
             "trailingAnnualDividendYield": [trailingAnnualDividendYield],
-            "averageAnalystRating": [averageAnalystRating]
+            "averageAnalystRating": [averageAnalystRating],
+            "trailingAnnualDividendRate": [trailingAnnualDividendRate]
         }
         df = pd.DataFrame(data)
         dfs.append(df)
