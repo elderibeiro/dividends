@@ -81,5 +81,9 @@ print(final_df.info())
 #print top 50 items of the dataframe sorted by trailingAnnualDividendYield
 print(final_df.sort_values(by=['trailingAnnualDividendYield'], ascending=False).head(50))
 
+#print top 50 items of the dataframe sorted by trailingAnnualDividendYield
+with open('dividends.md', 'w') as f:
+    f.write(final_df.sort_values(by=['trailingAnnualDividendYield'], ascending=False).head(50).to_markdown(index=False))
+
 #save the dataframe to a csv file
 final_df.to_csv('dividends.csv', index=False)

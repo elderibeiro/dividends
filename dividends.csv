@@ -53,7 +53,7 @@ Arbutus Biopharma Corporation,ABUS,NasdaqGS,,0.0,0.0
 "Arcosa, Inc.",ACA,NYSE,2021-10-28 19:00:00,0.2,0.0033630403
 Atlantic Coastal Acquisition Co,ACAB,NasdaqGM,,0.0,0.0
 Atlantic Coastal Acquisition Co,ACABU,NasdaqGM,,0.0,0.0
-Atlantic Coastal Acquisition Co,ACABW,NasdaqGM,,0.0,0.0
+Atlantic Coastal Acquisition Co,ACABW,NasdaqGS,,0.0,0.0
 Acri Capital Acquisition Corpor,ACAC,NasdaqGM,,0.0,0.0
 Acri Capital Acquisition Corpor,ACACU,NasdaqGM,,0.0,0.0
 ,ACACW,NasdaqGM,,0.0,0.0
@@ -74,7 +74,7 @@ Ace Global Business Acquisition Limited Warrant,ACBAW,NasdaqCM,,,
 "Accolade, Inc.",ACCD,NasdaqGS,,0.0,0.0
 Acco Brands Corporation,ACCO,NYSE,2023-04-04 19:00:00,0.3,0.058939096
 ProFrac Holding Corp.,ACDC,NasdaqGS,,0.0,0.0
-ProFrac Holding Corp. Warrant,ACDCW,NasdaqGS,,0.0,0.0
+ProFrac Holding Corp. Warrant,ACDCW,NasdaqGM,,0.0,0.0
 "Accel Entertainment, Inc.",ACEL,NYSE,,0.0,0.0
 Acer Therapeutics Inc.,ACER,NasdaqCM,2017-09-20 19:00:00,0.0,0.0
 ALPS Clean Energy ETF,ACES,NYSEArca,,,
@@ -99,7 +99,7 @@ Accenture plc,ACN,NYSE,2023-02-14 18:00:00,4.18,0.016980136
 ACNB Corporation,ACNB,NasdaqCM,2023-03-14 19:00:00,1.06,0.033125
 Ascent Industries Co.,ACNT,NasdaqGM,2018-12-11 18:00:00,0.0,0.0
 "Aclarion, Inc.",ACON,NasdaqCM,,0.0,0.0
-,ACONW,NasdaqCM,,0.0,0.0
+,ACONW,NasdaqGM,,0.0,0.0
 "Acorda Therapeutics, Inc.",ACOR,NasdaqGS,2021-01-03 18:00:00,0.0,0.0
 Aberdeen Income Credit Strategi,ACP,NYSE,2019-01-30 18:00:00,1.2,0.17725259
 Independence Holdings Corp.,ACQR,NasdaqCM,,0.0,0.0
@@ -162,11 +162,11 @@ Series Portfolios Trust Adaptiv,ADPV,NYSEArca,,0.0,0.0
 Invesco BLDRS Emerging Markets ,ADRE,NasdaqGM,2017-10-30 19:00:00,0.7,0.018577494
 Ault Disruptive Technologies Co,ADRT,NYSE American,,0.0,0.0
 ADS-TEC ENERGY PLC,ADSE,NasdaqCM,,0.0,0.0
-ADS-TEC ENERGY PLC Warrant,ADSEW,NasdaqCM,,,
+ADS-TEC ENERGY PLC Warrant,ADSEW,NasdaqGM,,,
 "Autodesk, Inc.",ADSK,NasdaqGS,,0.0,0.0
 ADT Inc.,ADT,NYSE,2023-04-03 19:00:00,0.14,0.02017291
 "AdTheorent Holding Company, Inc",ADTH,NasdaqCM,,0.0,0.0
-,ADTHW,NasdaqCM,,,
+,ADTHW,NasdaqGM,,,
 "ADTRAN Holdings, Inc.",ADTN,NasdaqGS,2023-03-20 19:00:00,0.36,0.023468059
 "Aditxt, Inc.",ADTX,NasdaqCM,,0.0,0.0
 Addus HomeCare Corporation,ADUS,NasdaqGS,,0.0,0.0
@@ -206,7 +206,7 @@ Anfield U.S. Equity Sector Rota,AESR,BATS,,,
 Aeterna Zentaris Inc.,AEZS,NasdaqCM,,0.0,0.0
 Aura FAT Projects Acquisition C,AFAR,NasdaqGM,,0.0,0.0
 Aura FAT Projects Acquisition C,AFARU,NasdaqGM,,0.0,0.0
-Aura FAT Projects Acquisition C,AFARW,NasdaqGM,,0.0,0.0
+Aura FAT Projects Acquisition C,AFARW,NasdaqGS,,0.0,0.0
 AllianceBernstein National Muni,AFB,NYSE,2019-02-14 18:00:00,0.58,0.055080723
 "Affinity Bancshares, Inc.",AFBI,NasdaqCM,,0.0,0.0
 "AFC Gamma, Inc.",AFCG,NasdaqGM,2023-04-13 19:00:00,2.23,0.1805668
@@ -223,7 +223,7 @@ First Trust Active Factor Large,AFLG,NYSEArca,,,
 First Trust Active Factor Mid C,AFMC,NYSEArca,,,
 Affimed N.V.,AFMD,NasdaqGM,,0.0,0.0
 Forafric Global PLC,AFRI,NasdaqCM,,0.0,0.0
-Forafric Global PLC Warrants,AFRIW,NasdaqCM,,0.0,0.0
+Forafric Global PLC Warrants,AFRIW,NasdaqGM,,0.0,0.0
 "Affirm Holdings, Inc.",AFRM,NasdaqGS,,0.0,0.0
 First Trust Active Factor Small,AFSM,NYSEArca,,,
 Apollo Senior Floating Rate Fun,AFT,NYSE,2019-02-19 18:00:00,1.094,0.087450035
@@ -290,7 +290,7 @@ Advanced Health Intelligence Lt,AHI,NasdaqCM,,0.0,0.0
 Tidal ETF Trust Newday Ocean He,AHOY,NYSEArca,,,
 Ahren Acquisition Corp.,AHRN,NasdaqGM,,0.0,0.0
 Ahren Acquisition Corp.,AHRNU,NasdaqGM,,0.0,0.0
-Ahren Acquisition Corp. Warrant,AHRNW,NasdaqGM,,0.0,0.0
+Ahren Acquisition Corp. Warrant,AHRNW,NasdaqGS,,0.0,0.0
 Ashford Hospitality Trust Inc,AHT,NYSE,2020-07-15 19:00:00,0.0,0.0
 American Century Select High Yi,AHYB,NYSEArca,,,
 "C3.ai, Inc.",AI,NYSE,,0.0,0.0
@@ -307,11 +307,11 @@ Listed Funds Trust Alpha Intell,AILG,NYSEArca,,,
 Listed Funds Trust Alpha Intell,AILV,NYSEArca,,,
 AIM ImmunoTech Inc.,AIM,NYSE American,2019-06-10 19:00:00,0.0,0.0
 Aimfinity Investment Corp. I,AIMAU,NasdaqGM,,0.0,0.0
-Aimfinity Investment Corp. I Wa,AIMAW,NasdaqGM,,0.0,0.0
+Aimfinity Investment Corp. I Wa,AIMAW,NasdaqGS,,0.0,0.0
 Aimfinity Investment Corp. I - ,AIMBU,NasdaqGM,,0.0,0.0
 Altra Industrial Motion Corp.,AIMC,NasdaqGS,2023-04-03 19:00:00,0.35,0.005694761
 "Ainos, Inc.",AIMD,NasdaqCM,,0.0,0.0
-AINOS INC C/WTS 29/07/2027 (TO ,AIMDW,NasdaqCM,,0.0,0.0
+AINOS INC C/WTS 29/07/2027 (TO ,AIMDW,NasdaqGM,,0.0,0.0
 Albany International Corporatio,AIN,NYSE,2023-04-09 19:00:00,0.88,0.009876544
 Ashford Inc. (Holding Company),AINC,NYSE American,,0.0,0.0
 AllianzGI Artificial Intelligen,AIO,NYSE,2021-01-31 18:00:00,0.0,0.0
@@ -404,7 +404,7 @@ Alpha Star Acquisition Corporation Warrants,ALSAW,NasdaqGM,,0.0,0.0
 "Altimmune, Inc.",ALT,NasdaqGM,2018-09-13 19:00:00,0.0,0.0
 Alta Equipment Group Inc.,ALTG,NYSE,2023-02-27 18:00:00,0.171,0.010601365
 "Alvarium Tiedemann Holdings, In",ALTI,NasdaqCM,,0.0,0.0
-,ALTIW,NasdaqCM,,0.0,0.0
+,ALTIW,NasdaqGM,,0.0,0.0
 Pacer Lunt Large Cap Alternator,ALTL,NYSEArca,,,
 "Alto Ingredients, Inc.",ALTO,NasdaqCM,,0.0,0.0
 Altair Engineering Inc.,ALTR,NasdaqGS,,0.0,0.0
@@ -503,7 +503,7 @@ Direxion Daily AMZN Bull 1.5X S,AMZU,NasdaqGM,,,
 ProShares MSCI Transformational,ANEW,NYSEArca,,,
 Abercrombie & Fitch Company,ANF,NYSE,2020-03-15 19:00:00,0.0,0.0
 Anghami Inc.,ANGH,NasdaqGM,,0.0,0.0
-Anghami Inc. Warrants,ANGHW,NasdaqCM,,0.0,0.0
+Anghami Inc. Warrants,ANGHW,NasdaqGM,,0.0,0.0
 Angi Inc.,ANGI,NasdaqGS,,0.0,0.0
 VanEck Fallen Angel High Yield ,ANGL,NasdaqGM,,0.0,0.0
 Angion Biomedica Corp.,ANGN,NasdaqGS,,0.0,0.0
@@ -524,7 +524,7 @@ Anzu Special Acquisition Corp I Warrant,ANZUW,NasdaqCM,,,
 iShares Core Aggressive Allocat,AOA,NYSEArca,,0.0,0.0
 Aberdeen Total Dynamic Dividend,AOD,NYSE,2019-01-30 18:00:00,0.69,0.08972692
 Arogo Capital Acquisition Corp.,AOGO,NasdaqGM,,0.0,0.0
-Arogo Capital Acquisition Corp.,AOGOW,NasdaqGM,,0.0,0.0
+Arogo Capital Acquisition Corp.,AOGOW,NasdaqGS,,0.0,0.0
 iShares Core Conservative Alloc,AOK,NYSEArca,,,
 iShares Core Moderate Allocatio,AOM,NYSEArca,,,
 "Angel Oak Mortgage REIT, Inc.",AOMR,NYSE,2023-03-30 19:00:00,1.54,0.2132964
@@ -539,12 +539,12 @@ Ampco-Pittsburgh Corporation,AP,NYSE,2017-04-27 19:00:00,0.0,0.0
 APA Corporation,APA,NasdaqGS,2023-05-21 19:00:00,0.75,0.023400936
 StoneBridge Acquisition Corpora,APAC,NasdaqCM,,0.0,0.0
 StoneBridge Acquisition Corpora,APACU,NasdaqCM,,0.0,0.0
-StoneBridge Acquisition Corporation Warrant,APACW,NasdaqCM,,,
+StoneBridge Acquisition Corporation Warrant,APACW,NasdaqGM,,,
 Artisan Partners Asset Manageme,APAM,NYSE,2023-02-27 18:00:00,2.47,0.08324908
 AP Acquisition Corp,APCA,NYSE,,0.0,0.0
 ,APCA-WS,,,,
 AppTech Payments Corp.,APCX,NasdaqCM,,0.0,0.0
-AppTech Payments Corp. Warrant,APCXW,NasdaqCM,,,
+AppTech Payments Corp. Warrant,APCXW,NasdaqGM,,,
 "Air Products and Chemicals, Inc",APD,NYSE,2023-05-07 19:00:00,6.48,0.023390124
 "Applied DNA Sciences, Inc.",APDN,NasdaqCM,2019-10-31 19:00:00,0.0,0.0
 "AMC Entertainment Holdings, Inc",APE,NYSE,,0.0,0.0
@@ -554,7 +554,7 @@ APi Group Corporation,APG,NYSE,,0.0,0.0
 Apollo Strategic Growth Capital,APGB,NYSE,,0.0,0.0
 ,APGB-WS,,,,
 "Apexigen, Inc.",APGN,NasdaqCM,,0.0,0.0
-,APGNW,NasdaqCM,,0.0,0.0
+,APGNW,NasdaqGM,,0.0,0.0
 Amphenol Corporation,APH,NYSE,2023-04-11 19:00:00,0.81,0.010652288
 "Agora, Inc.",API,NasdaqGS,,0.0,0.0
 Applied Digital Corporation,APLD,NasdaqGS,,0.0,0.0
@@ -589,7 +589,7 @@ Aptevo Therapeutics Inc.,APVO,NasdaqCM,2020-03-26 19:00:00,0.0,0.0
 Asia Pacific Wire & Cable Corpo,APWC,NasdaqCM,2018-11-29 18:00:00,0.0,0.0
 APx Acquisition Corp. I,APXI,NasdaqGM,,0.0,0.0
 APx Acquisition Corp. I,APXIU,NasdaqGM,,0.0,0.0
-APx Acquisition Corp. I Warrant,APXIW,NasdaqGM,,0.0,0.0
+APx Acquisition Corp. I Warrant,APXIW,NasdaqGS,,0.0,0.0
 Apyx Medical Corporation,APYX,NasdaqGS,,0.0,0.0
 "AquaBounty Technologies, Inc.",AQB,NasdaqCM,2015-06-11 19:00:00,0.0,0.0
 AI Quality Growth ETF,AQGX,NYSEArca,,,
@@ -609,7 +609,7 @@ Antero Resources Corporation,AR,NYSE,,0.0,0.0
 Accuray Incorporated,ARAY,NasdaqGS,,0.0,0.0
 AltShares Merger Arbitrage ETF,ARB,NYSEArca,,,
 Arbe Robotics Ltd.,ARBE,NasdaqCM,,0.0,0.0
-Arbe Robotics Ltd. Warrant,ARBEW,NasdaqCM,,0.0,0.0
+Arbe Robotics Ltd. Warrant,ARBEW,NasdaqGM,,0.0,0.0
 Aequi Acquisition Corp.,ARBG,NasdaqCM,,0.0,0.0
 Aequi Acquisition Corp.,ARBGU,NasdaqCM,,0.0,0.0
 Aequi Acquisition Corp.,ARBGW,NasdaqCM,,,
@@ -631,7 +631,7 @@ Aridis Pharmaceuticals Inc.,ARDS,NasdaqCM,,0.0,0.0
 "Ardelyx, Inc.",ARDX,NasdaqGM,,0.0,0.0
 Alexandria Real Estate Equities,ARE,NYSE,2023-04-13 19:00:00,4.72,0.03717999
 "American Rebel Holdings, Inc.",AREB,NasdaqCM,,0.0,0.0
-"American Rebel Holdings, Inc. W",AREBW,NasdaqCM,,0.0,0.0
+"American Rebel Holdings, Inc. W",AREBW,NasdaqGS,,0.0,0.0
 American Resources Corporation,AREC,NasdaqCM,2017-05-23 19:00:00,0.0,0.0
 "The Arena Group Holdings, Inc.",AREN,NYSE American,,0.0,0.0
 Ares Management Corporation,ARES,NYSE,2021-09-29 19:00:00,2.44,0.03271216
@@ -665,7 +665,7 @@ Arconic Corporation,ARNC,NYSE,2020-02-24 18:00:00,0.0,0.0
 Arrow Financial Corporation,AROW,NasdaqGS,2023-03-14 19:00:00,1.056,0.03922734
 The Advisors? Inner Circle Fund,ARP,NYSEArca,,0.0,0.0
 Arqit Quantum Inc.,ARQQ,NasdaqCM,,0.0,0.0
-Arqit Quantum Inc. Warrants,ARQQW,NasdaqCM,,,
+Arqit Quantum Inc. Warrants,ARQQW,NasdaqGM,,,
 "Arcutis Biotherapeutics, Inc.",ARQT,NasdaqGS,,0.0,0.0
 "ARMOUR Residential REIT, Inc.",ARR,NYSE,2023-03-27 19:00:00,1.2,0.23904383
 Arrowroot Acquisition Corp.,ARRW,NasdaqCM,,0.0,0.0
@@ -695,11 +695,11 @@ Associated Banc-Corp,ASB,NYSE,2023-03-14 19:00:00,0.81,0.042209484
 Ardmore Shipping Corporation,ASC,NYSE,2023-03-14 19:00:00,0.45,0.029163964
 A SPAC I Acquisition Corp.,ASCA,NasdaqCM,,0.0,0.0
 A SPAC I Acquisition Corp.,ASCAU,NasdaqCM,,0.0,0.0
-A SPAC I Acquisition Corp. Warr,ASCAW,NasdaqCM,,0.0,0.0
+A SPAC I Acquisition Corp. Warr,ASCAW,NasdaqGS,,0.0,0.0
 A SPAC II Acquisition Corp.,ASCB,NasdaqGM,,0.0,0.0
 A SPAC II Acquisition Corp.,ASCBR,NasdaqGM,,0.0,0.0
 A SPAC II Acquisition Corp.,ASCBU,NasdaqGM,,0.0,0.0
-A SPAC II Acquisition Corp. War,ASCBW,NasdaqGM,,0.0,0.0
+A SPAC II Acquisition Corp. War,ASCBW,NasdaqGS,,0.0,0.0
 Global X FTSE Southeast Asia ET,ASEA,NYSEArca,,,
 FlexShares Real Assets Allocati,ASET,NasdaqGM,2018-06-27 19:00:00,,
 "Liberty All-Star Growth Fund, I",ASG,NYSE,2019-03-10 19:00:00,0.5,0.10020041
@@ -720,7 +720,7 @@ Ascendis Pharma A/S,ASND,NasdaqGS,,0.0,0.0
 "Academy Sports and Outdoors, In",ASO,NasdaqGS,2023-04-12 19:00:00,0.3,0.0050075115
 "Abri SPAC I, Inc.",ASPA,NasdaqCM,,0.0,0.0
 "Abri SPAC I, Inc.",ASPAU,NasdaqCM,,0.0,0.0
-"ABRI SPAC I, INC. Warrant",ASPAW,NasdaqCM,,,
+"ABRI SPAC I, INC. Warrant",ASPAW,NasdaqGM,,,
 ASP Isotopes Inc.,ASPI,NasdaqCM,,0.0,0.0
 "Aspen Aerogels, Inc.",ASPN,NYSE,,0.0,0.0
 Altisource Portfolio Solutions ,ASPS,NasdaqGS,,0.0,0.0
@@ -746,7 +746,7 @@ ATAI Life Sciences N.V.,ATAI,NasdaqGM,,0.0,0.0
 Aurora Technology Acquisition C,ATAK,NasdaqGM,,0.0,0.0
 Aurora Technology Acquisition C,ATAKR,NasdaqGM,,0.0,0.0
 Aurora Technology Acquisition C,ATAKU,NasdaqGM,,0.0,0.0
-Aurora Technology Acquisition C,ATAKW,NasdaqGM,,0.0,0.0
+Aurora Technology Acquisition C,ATAKW,NasdaqGS,,0.0,0.0
 Altimar Acquisition Corp. III,ATAQ,NYSE,,0.0,0.0
 Atour Lifestyle Holdings Limite,ATAT,NasdaqGS,,0.0,0.0
 Atlas Corp.,ATCO,NYSE,2023-01-29 18:00:00,0.5,0.032404408
@@ -807,7 +807,7 @@ Addentax Group Corp.,ATXG,NasdaqCM,2019-03-04 18:00:00,0.0,0.0
 "Avenue Therapeutics, Inc.",ATXI,NasdaqCM,,0.0,0.0
 "Astria Therapeutics, Inc.",ATXS,NasdaqGM,2018-12-30 18:00:00,0.0,0.0
 AcuityAds Holdings Inc.,ATY,NasdaqCM,,0.0,0.0
-AngloGold Ashanti Limited,AU,NYSE,2023-04-09 19:00:00,0.47,0.024074169
+AngloGold Ashanti Limited,AU,NYSE,2023-04-09 19:00:00,0.47,0.02407422
 Atlantic Union Bankshares Corpo,AUB,NYSE,2023-02-23 18:00:00,1.16,0.032666855
 "Auburn National Bancorporation,",AUBN,NasdaqGM,2023-03-26 19:00:00,1.06,0.045611013
 Audacy,AUD,NYSE,2020-03-26 19:00:00,0.0,0.0
@@ -823,7 +823,7 @@ Aurinia Pharmaceuticals Inc,AUPH,NasdaqGM,,0.0,0.0
 Aurora Acquisition Corp.,AURC,NasdaqCM,,0.0,0.0
 Aurora Acquisition Corp.,AURCU,NasdaqCM,,0.0,0.0
 Aurora Acquisition Corp. Warrant,AURCW,NasdaqCM,,,
-,AUROW,NasdaqGS,,,
+,AUROW,NasdaqGM,,,
 Global X Funds Global X Adaptiv,AUSF,NYSEArca,,,
 Austin Gold Corp.,AUST,NYSE American,,0.0,0.0
 Autolus Therapeutics plc,AUTL,NasdaqGS,,0.0,0.0
@@ -889,7 +889,7 @@ Alliancebernstein Global High I,AWF,NYSE,2019-02-14 18:00:00,0.783,0.080061354
 Aspira Women's Health Inc.,AWH,NasdaqCM,,0.0,0.0
 Armstrong World Industries Inc,AWI,NYSE,2023-03-15 19:00:00,0.97,0.014053899
 AERWINS Technologies Inc.,AWIN,NasdaqGM,,0.0,0.0
-,AWINW,NasdaqCM,,0.0,0.0
+,AWINW,NasdaqGM,,0.0,0.0
 "American Water Works Company, I",AWK,NYSE,2023-02-28 18:00:00,2.567,0.018253572
 Aberdeen Global Premier Propert,AWP,NYSE,2019-01-30 18:00:00,0.48,0.12276214
 American States Water Company,AWR,NYSE,2023-02-28 18:00:00,1.525,0.017448513
@@ -933,7 +933,7 @@ Invesco Taxable Municipal Bond ,BAB,NYSEArca,,0.95,0.0355273
 Alibaba Group Holding Limited,BABA,NYSE,,0.0,0.0
 GraniteShares 1.75x Long BABA D,BABX,NasdaqGM,,0.0,0.0
 Bank of America Corporation,BAC,NYSE,2023-03-30 19:00:00,0.86,0.030186031
-Berenson Acquisition Corp. I,BACA,NYSE,,0.0,0.0
+Berenson Acquisition Corp. I,BACA,NYSE American,,0.0,0.0
 "IMAC Holdings, Inc.",BACK,NasdaqCM,,0.0,0.0
 Listed Funds Trust B.A.D. ETF,BAD,NYSEArca,,,
 Bridger Aerospace Group Holding,BAER,NasdaqGM,,0.0,0.0
@@ -1034,7 +1034,7 @@ Blockchain Coinvestors Acquisition Corp. I Warrant,BCSAW,NasdaqGM,,0.0,0.0
 "Bain Capital Specialty Finance,",BCSF,NYSE,2023-04-27 19:00:00,1.38,0.11423841
 BriaCell Therapeutics Corp.,BCTX,NasdaqCM,2020-01-01 18:00:00,0.0,0.0
 BriaCell Therapeutics Corp.,BCTXW,NasdaqCM,,,
-12944,BCV,NYSE,2018-12-27 18:00:00,4.13,0.24554104
+12944,BCV,NYSE American,2018-12-27 18:00:00,4.13,0.24554104
 BlackRock Resources  of Benefic,BCX,NYSE,2019-01-30 18:00:00,0.0,0.0
 Bicycle Therapeutics plc,BCYC,NasdaqGS,,0.0,0.0
 Belden Inc,BDC,NYSE,2023-04-05 19:00:00,0.2,0.0024624476
@@ -1089,9 +1089,9 @@ BlackRock Municipal Income Trus,BFK,NYSE,2019-01-31 18:00:00,0.678,0.0673287
 "Butterfly Network, Inc.",BFLY,NYSE,,0.0,0.0
 Barron's 400,BFOR,NYSEArca,,,
 "Bullfrog AI Holdings, Inc.",BFRG,NasdaqCM,,0.0,0.0
-"Bullfrog AI Holdings, Inc. Warr",BFRGW,NasdaqCM,,0.0,0.0
+"Bullfrog AI Holdings, Inc. Warr",BFRGW,NasdaqGS,,0.0,0.0
 Biofrontera Inc.,BFRI,NasdaqCM,,0.0,0.0
-Biofrontera Inc. Warrants,BFRIW,NasdaqCM,,,
+Biofrontera Inc. Warrants,BFRIW,NasdaqGM,,,
 "Saul Centers, Inc.",BFS,NYSE,2023-04-27 19:00:00,2.34,0.06331169
 "Business First Bancshares, Inc.",BFST,NasdaqGS,2023-02-27 18:00:00,0.48,0.027272725
 BlackRock Future Innovators ETF,BFTR,NYSEArca,,,
@@ -1140,7 +1140,7 @@ Braemar Hotels & Resorts Inc.,BHR,NYSE,2023-04-16 19:00:00,0.08,0.018735362
 BlackRock Virginia Municipal Bo,BHV,NYSE,2019-01-31 18:00:00,0.546,0.049501363
 Biohaven Ltd.,BHVN,NYSE,,0.0,0.0
 "bioAffinity Technologies, Inc.",BIAF,NasdaqCM,,0.0,0.0
-"bioAffinity Technologies, Inc. ",BIAFW,NasdaqCM,,0.0,0.0
+"bioAffinity Technologies, Inc. ",BIAFW,NasdaqGS,,0.0,0.0
 ProShares Ultra Nasdaq Biotechn,BIB,NasdaqGM,2010-09-27 19:00:00,,
 Inspire 100 ETF,BIBL,NYSEArca,,,
 First Trust BICK Index Fund,BICK,NasdaqGM,2017-03-30 19:00:00,,
@@ -1162,7 +1162,7 @@ BIMI International Medical Inc.,BIMI,NasdaqCM,,0.0,0.0
 "Biora Therapeutics, Inc.",BIOR,NasdaqGM,,0.0,0.0
 BioPlus Acquisition Corp.,BIOS,NasdaqGM,,0.0,0.0
 BioPlus Acquisition Corp.,BIOSU,NasdaqGM,,0.0,0.0
-BioPlus Acquisition Corp. Warra,BIOSW,NasdaqGM,,0.0,0.0
+BioPlus Acquisition Corp. Warra,BIOSW,NasdaqGS,,0.0,0.0
 Bioceres Crop Solutions Corp.,BIOX,NasdaqGS,,0.0,0.0
 Brookfield Infrastructure Partn,BIP,NYSE,2023-03-30 19:00:00,1.44,0.045368623
 Brookfield Infrastructure Corpo,BIPC,NYSE,2023-03-30 19:00:00,1.44,0.032816775
@@ -1249,7 +1249,7 @@ Virtus Newfleet High Yield Bond,BLHY,NYSEArca,,,
 "BlackRock, Inc.",BLK,NYSE,2023-03-22 19:00:00,19.52,0.030898789
 "Blackbaud, Inc.",BLKB,NasdaqGS,2020-03-12 19:00:00,0.0,0.0
 Invesco Alerian Galaxy Blockcha,BLKC,BATS,,,
-JPMorgan Sustainable Infrastruc,BLLD,NasdaqGM,,0.0,0.0
+JPMorgan Sustainable Infrastruc,BLLD,NasdaqGM,,,
 "Bloomin' Brands, Inc.",BLMN,NasdaqGS,2023-03-14 19:00:00,0.56,0.022038568
 "Blend Labs, Inc.",BLND,NYSE,,0.0,0.0
 Belong Acquisition Corp.,BLNG,NasdaqCM,,0.0,0.0
@@ -1305,7 +1305,7 @@ First Trust S-Network Streaming,BNGE,NYSEArca,,,
 Brookfield Finance Inc. 4.625% ,BNH,NYSE,2023-04-15 19:00:00,,
 Bannix Acquisition Corp.,BNIX,NasdaqCM,,0.0,0.0
 Bannix Acquisition Corp.,BNIXR,NasdaqCM,,,
-Bannix Acquisition Corp. Warrant,BNIXW,NasdaqCM,,,
+Bannix Acquisition Corp. Warrant,BNIXW,NasdaqGM,,,
 Brookfield Finance Inc. 4.50% P,BNJ,NYSE,2023-02-23 18:00:00,,
 MicroSectors U.S. Big Banks Ind,BNKD,NYSEArca,,,
 MicroSectors U.S. Big Banks Ind,BNKU,NYSEArca,,,
@@ -1331,7 +1331,7 @@ Merlyn.AI Best-of-Breed Core Mo,BOB,BATS,,,
 Boston Omaha Corporation,BOC,NYSE,,0.0,0.0
 Blue Ocean Acquisition Corp,BOCN,NasdaqGM,,0.0,0.0
 Blue Ocean Acquisition Corp,BOCNU,NasdaqGM,,0.0,0.0
-Blue Ocean Acquisition Corp War,BOCNW,NasdaqGM,,0.0,0.0
+Blue Ocean Acquisition Corp War,BOCNW,NasdaqGS,,0.0,0.0
 Innovator U.S. Equity Buffer ET,BOCT,BATS,,,
 "The Beachbody Company, Inc.",BODY,NYSE,,0.0,0.0
 Blackrock Enhanced Global Divid,BOE,NYSE,2019-01-30 18:00:00,0.756,0.079915434
@@ -1357,7 +1357,7 @@ EA Series Trust Alpha Architect,BOXX,BATS,,,
 BP p.l.c.,BP,NYSE,2023-03-30 19:00:00,0.241,0.006722455
 Bullpen Parlay Acquisition Comp,BPAC,NasdaqGM,,0.0,0.0
 Bullpen Parlay Acquisition Comp,BPACU,NasdaqGM,,0.0,0.0
-Bullpen Parlay Acquisition Comp,BPACW,NasdaqGM,,0.0,0.0
+Bullpen Parlay Acquisition Comp,BPACW,NasdaqGS,,0.0,0.0
 BlackRock ETF Trust BlackRock F,BPAY,NYSEArca,,,
 Blueprint Medicines Corporation,BPMC,NasdaqGS,,0.0,0.0
 "Popular, Inc.",BPOP,NasdaqGS,2023-04-02 19:00:00,2.2,0.042536736
@@ -1399,7 +1399,7 @@ Berkshire Hathaway Inc.,BRK-A,NYSE,,0.0,0.0
 Berkshire Hathaway Inc. New,BRK-B,NYSE,,0.0,0.0
 BurTech Acquisition Corp.,BRKH,NasdaqGM,,0.0,0.0
 BurTech Acquisition Corp.,BRKHU,NasdaqGM,,0.0,0.0
-BurTech Acquisition Corp. Warra,BRKHW,NasdaqGM,,0.0,0.0
+BurTech Acquisition Corp. Warra,BRKHW,NasdaqGS,,0.0,0.0
 "Brookline Bancorp, Inc.",BRKL,NasdaqGS,2023-02-23 18:00:00,0.53,0.04831358
 Bruker Corporation,BRKR,NasdaqGS,2023-03-16 19:00:00,0.2,0.0027416039
 Direxion Shares ETF Trust Direx,BRKY,NYSEArca,,0.0,0.0
@@ -1443,7 +1443,7 @@ Invesco BulletShares 2028 Corpo,BSCS,NasdaqGM,,,
 Invesco BulletShares 2029 Corpo,BSCT,NasdaqGM,,,
 Invesco BulletShares 2030 Corpo,BSCU,NasdaqGM,,,
 Invesco BulletShares 2031 Corpo,BSCV,NasdaqGM,,,
-Invesco BulletShares 2032 Corpo,BSCW,NasdaqGM,,0.0,0.0
+Invesco BulletShares 2032 Corpo,BSCW,NasdaqGM,,,
 Invesco BulletShares 2024 USD E,BSDE,NasdaqGM,,,
 ETFMG Breakwave Sea Decarboniza,BSEA,NYSEArca,,,
 Innovator U.S. Equity Buffer ET,BSEP,BATS,,,
@@ -1461,7 +1461,7 @@ Invesco BulletShares 2026 High ,BSJQ,NasdaqGM,,,
 Invesco BulletShares 2027 High ,BSJR,NasdaqGM,,,
 Invesco BulletShares 2028 High ,BSJS,NasdaqGM,,,
 Invesco BulletShares 2029 High ,BSJT,NasdaqGM,,,
-Invesco BulletShares 2030 High ,BSJU,NasdaqGM,,0.0,0.0
+Invesco BulletShares 2030 High ,BSJU,NasdaqGM,,,
 Blackstone GSO Senior Floating ,BSL,NYSE,2019-02-27 18:00:00,0.931,0.07483923
 "Black Stone Minerals, L.P.",BSM,NYSE,2023-02-22 18:00:00,1.745,0.12473195
 Invesco BulletShares 2023 Munic,BSMN,NasdaqGM,,,
@@ -1490,7 +1490,7 @@ BlackRock Long-Term Municipal A,BTA,NYSE,2019-01-31 18:00:00,0.654,0.06646341
 AGF U.S. Market Neutral Anti-Be,BTAL,NYSEArca,,,
 Bit Brother Limited,BTB,NasdaqCM,2020-08-26 19:00:00,0.0,0.0
 "BT Brands, Inc.",BTBD,NasdaqCM,,0.0,0.0
-"BT Brands, Inc. Warrant",BTBDW,NasdaqCM,,,
+"BT Brands, Inc. Warrant",BTBDW,NasdaqGM,,,
 "Bit Digital, Inc.",BTBT,NasdaqCM,,0.0,0.0
 BIT Mining Limited,BTCM,NYSE,,0.0,0.0
 BTCS Inc.,BTCS,NasdaqCM,2019-04-09 19:00:00,0.0,0.0
@@ -1502,7 +1502,7 @@ B2Gold Corp,BTG,NYSE American,2023-03-16 19:00:00,0.16,0.045714285
 BlackRock ETF Trust BlackRock F,BTHM,NYSEArca,,,
 British American Tobacco  Indus,BTI,NYSE,2024-02-05 18:00:00,2.178,0.05996696
 Biote Corp.,BTMD,NasdaqGM,,0.0,0.0
-BIOTE CORP,BTMDW,NasdaqGM,,0.0,0.0
+BIOTE CORP,BTMDW,Other OTC,,0.0,0.0
 John Hancock Financial Opportun,BTO,NYSE,2018-12-30 18:00:00,2.5,0.08704735
 Bit Origin Limited,BTOG,NasdaqCM,,0.0,0.0
 BlackRock Municipal 2030 Target,BTT,NYSE,2019-01-31 18:00:00,0.749,0.035263654
@@ -1546,7 +1546,7 @@ BETTER WORLD ACQUISITION CORP.,BWACU,NasdaqCM,,0.0,0.0
 Better World Acquisition Corp.,BWACW,NasdaqCM,,,
 Blue World Acquisition Corporat,BWAQ,NasdaqGM,,0.0,0.0
 Blue World Acquisition Corporat,BWAQU,NasdaqGM,,0.0,0.0
-Blue World Acquisition Corporat,BWAQW,NasdaqGM,,0.0,0.0
+Blue World Acquisition Corporat,BWAQW,NasdaqGS,,0.0,0.0
 Brainsway Ltd.,BWAY,NasdaqGM,,0.0,0.0
 "Bridgewater Bancshares, Inc.",BWB,NasdaqCM,,0.0,0.0
 "Bridgewater Bancshares, Inc. - ",BWBBP,NasdaqCM,2023-02-28 18:00:00,0.0,0.0
@@ -1582,7 +1582,7 @@ Banyan Acquisition Corporation,BYN,NYSE,,0.0,0.0
 "Beyond Meat, Inc.",BYND,NasdaqGS,,0.0,0.0
 byNordic Acquisition Corporatio,BYNO,NasdaqGM,,0.0,0.0
 byNordic Acquisition Corporatio,BYNOU,NasdaqGM,,0.0,0.0
-byNordic Acquisition Corporatio,BYNOW,NasdaqGM,,0.0,0.0
+byNordic Acquisition Corporatio,BYNOW,NasdaqGS,,0.0,0.0
 SoFi Be Your Own Boss ETF,BYOB,NasdaqGM,,0.0,0.0
 Principal Exchange-Traded Funds,BYRE,NYSEArca,,0.0,0.0
 "Byrna Technologies, Inc.",BYRN,NasdaqCM,,0.0,0.0
@@ -1593,7 +1593,7 @@ BYTE Acquisition Corp.,BYTSU,NasdaqCM,,0.0,0.0
 BYTE Acquisition Corp. Warrants,BYTSW,NasdaqCM,,,
 KANZHUN LIMITED - American Depo,BZ,NasdaqGS,,0.0,0.0
 "BuzzFeed, Inc.",BZFD,NasdaqGM,,0.0,0.0
-,BZFDW,NasdaqCM,,,
+,BZFDW,NasdaqGM,,,
 "Beazer Homes USA, Inc.",BZH,NYSE,,0.0,0.0
 ProShares UltraShort MSCI Brazi,BZQ,NYSEArca,,,
 Baozun Inc.,BZUN,NasdaqGS,,0.0,0.0
@@ -1731,7 +1731,7 @@ VictoryShares US EQ Income Enha,CDC,NasdaqGM,2018-06-14 19:00:00,,
 "Coeur Mining, Inc.",CDE,NYSE,,0.0,0.0
 Morgan Stanley ETF Trust Calver,CDEI,NYSEArca,,0.0,0.0
 Cardio Diagnostics Holdings Inc,CDIO,NasdaqCM,,0.0,0.0
-,CDIOW,NasdaqCM,,0.0,0.0
+,CDIOW,NasdaqGM,,0.0,0.0
 VictoryShares US Large Cap High,CDL,NasdaqGM,2018-06-14 19:00:00,0.0,0.0
 "Cardlytics, Inc. Common Stock",CDLX,NasdaqGM,,0.0,0.0
 "Avid Bioservices, Inc.",CDMO,NasdaqCM,2017-07-09 19:00:00,0.0,0.0
@@ -1739,7 +1739,7 @@ VictoryShares US Large Cap High,CDL,NasdaqGM,2018-06-14 19:00:00,0.0,0.0
 "Cadence Design Systems, Inc.",CDNS,NasdaqGS,,0.0,0.0
 "Cadre Holdings, Inc.",CDRE,NYSE,2023-02-16 18:00:00,0.0,0.0
 "Codere Online Luxembourg, S.A.",CDRO,NasdaqCM,,0.0,0.0
-"Codere Online Luxembourg, S.A. Warrants",CDROW,NasdaqCM,,,
+"Codere Online Luxembourg, S.A. Warrants",CDROW,NasdaqGM,,,
 "Cidara Therapeutics, Inc.",CDTX,NasdaqCM,,0.0,0.0
 CDW Corporation,CDW,NasdaqGS,2023-03-09 18:00:00,2.09,0.011078717
 Simplify Exchange Traded Funds ,CDX,NYSEArca,,,
@@ -1749,10 +1749,10 @@ ChromaDex Corporation,CDXC,NasdaqCM,,0.0,0.0
 "Cadiz, Inc. - Depositary Shares",CDZIP,NasdaqGM,2023-01-16 18:00:00,0.0,0.0
 Celanese Corporation Celanese C,CE,NYSE,2023-03-06 18:00:00,2.74,0.026781352
 CEA Industries Inc.,CEAD,NasdaqCM,,0.0,0.0
-CEA Industries Inc. Warrant,CEADW,NasdaqCM,,0.0,0.0
+CEA Industries Inc. Warrant,CEADW,NasdaqGS,,0.0,0.0
 CECO Environmental Corp.,CECO,NasdaqGS,2017-09-28 19:00:00,0.0,0.0
 The Central and Eastern Europe ,CEE,NYSE,2019-01-29 18:00:00,0.953,0.11211765
-304800,CEF,NYSE,2017-11-13 18:00:00,0.0,0.0
+304800,CEF,NYSE American,2017-11-13 18:00:00,0.0,0.0
 Global X S&P Catholic Values De,CEFA,NasdaqGM,,,
 ETRACS Monthly Pay 1.5X Leverag,CEFD,NYSEArca,,,
 Exchange Listed Funds Trust ETF,CEFS,BATS,,,
@@ -1778,11 +1778,11 @@ Crestwood Equity Partners LP Pr,CEQP-P,NYSE,2023-02-13 18:00:00,2.62,0.29273742
 "Cerevel Therapeutics Holdings, ",CERE,NasdaqCM,,0.0,0.0
 Cerus Corporation,CERS,NasdaqGM,,0.0,0.0
 "Certara, Inc.",CERT,NasdaqGS,,0.0,0.0
-11017,CET,NYSE,2018-12-19 18:00:00,2.45,0.07323993
+11017,CET,NYSE American,2018-12-19 18:00:00,2.45,0.07323993
 Cetus Capital Acquisition Corp.,CETUU,NasdaqCM,,,
 Cemtrex Inc.,CETX,NasdaqCM,2019-06-12 19:00:00,0.0,0.0
 Cemtrex Inc. - Series 1 Preferr,CETXP,NasdaqCM,2020-04-05 19:00:00,0.0,0.0
-10525,CEV,NYSE,2019-01-21 18:00:00,0.533,0.05314058
+10525,CEV,NYSE American,2019-01-21 18:00:00,0.533,0.05314058
 "CEVA, Inc.",CEVA,NasdaqGS,,0.0,0.0
 WisdomTree Emerging Currency St,CEW,NYSEArca,,,
 "CF Industries Holdings, Inc.",CF,NYSE,2023-02-27 18:00:00,1.5,0.020695364
@@ -1797,7 +1797,7 @@ C&F Financial Corporation,CFFI,NasdaqGS,2023-03-31 19:00:00,1.64,0.02834428
 "Capitol Federal Financial, Inc.",CFFN,NasdaqGS,2023-02-16 18:00:00,0.34,0.044444446
 CF Acquisition Corp. VII,CFFS,NasdaqCM,,0.0,0.0
 CF Acquisition Corp. VII,CFFSU,NasdaqGM,,0.0,0.0
-CF Acquisition Corp. VII Warran,CFFSW,NasdaqCM,,0.0,0.0
+CF Acquisition Corp. VII Warran,CFFSW,NasdaqGS,,0.0,0.0
 "Citizens Financial Group, Inc.",CFG,NYSE,2023-02-13 18:00:00,1.62,0.05141225
 CF Acquisition Corp. IV,CFIV,NasdaqCM,,0.0,0.0
 CF Acquisition Corp. IV,CFIVU,NasdaqCM,,0.0,0.0
@@ -1843,7 +1843,7 @@ Community Healthcare Trust Inco,CHCT,NYSE,2023-02-28 18:00:00,1.775,0.048750345
 Chemed Corp,CHE,NYSE,2023-03-16 19:00:00,1.48,0.0028677168
 Chenghe Acquisition Co.,CHEA,NasdaqGM,,0.0,0.0
 Chenghe Acquisition Co.,CHEAU,NasdaqGM,,0.0,0.0
-Chenghe Acquisition Co. Warrant,CHEAW,NasdaqGM,,0.0,0.0
+Chenghe Acquisition Co. Warrant,CHEAW,NasdaqGS,,0.0,0.0
 "The Chefs' Warehouse, Inc.",CHEF,NasdaqGS,,0.0,0.0
 Check-Cap Ltd.,CHEK,NasdaqCM,2018-04-03 19:00:00,0.0,0.0
 Check-Cap Ltd. - Series C,CHEKZ,NasdaqCM,,,
@@ -1902,7 +1902,7 @@ Cinedigm Corp,CIDM,NasdaqCM,,0.0,0.0
 Ciena Corporation,CIEN,NYSE,,0.0,0.0
 MFS Intermediate High Income Fu,CIF,NYSE,2019-02-27 18:00:00,0.196,0.115294114
 Cipher Mining Inc.,CIFR,NasdaqGS,,0.0,0.0
-,CIFRW,NasdaqGS,,,
+Good Works Acquisition Corp.,CIFRW,NasdaqGM,,,
 Comp En De Mn Cemig,CIG,NYSE,2017-12-12 18:00:00,0.892,0.4372549
 Comp En De Mn Cemig,CIG-C,NYSE,2017-12-12 18:00:00,0.892,0.29342106
 Colliers International Group In,CIGI,NasdaqGS,2023-01-12 18:00:00,0.3,0.0028406403
@@ -1911,21 +1911,21 @@ Blackrock Capital and Income Fu,CII,NYSE,2019-01-30 18:00:00,2.1,0.12237762
 "CIIG Capital Partners II, Inc.",CIIG,NasdaqGM,,0.0,0.0
 "CIIG Capital Partners II, Inc.",CIIGU,NasdaqGM,,0.0,0.0
 "CIIG Capital Partners II, Inc. Warrant",CIIGW,NasdaqGM,,,
-106937,CIK,NYSE,,0.27,0.106719375
+106937,CIK,NYSE American,,0.27,0.106719375
 VictoryShares International Vol,CIL,NasdaqGM,2018-06-14 19:00:00,0.0,0.0
 Chimera Investment Corporation,CIM,NYSE,2023-04-26 19:00:00,1.12,0.20779221
 Cincinnati Financial Corporatio,CINF,NasdaqGS,2023-04-13 19:00:00,2.76,0.025852378
 Cingulate Inc.,CING,NasdaqCM,,0.0,0.0
-CINGULATE INC C/WTS 03/12/2026 ,CINGW,NasdaqCM,,,
+Cingulate Inc. Warrants,CINGW,NasdaqGM,,,
 CI&T Inc,CINT,NYSE,,0.0,0.0
 "City Office REIT, Inc.",CIO,NYSE,2023-01-23 18:00:00,0.8,0.11049724
 CION Investment Corporation,CION,NYSE,2023-01-30 18:00:00,1.135,0.11934805
 "CIRCOR International, Inc.",CIR,NYSE,2017-12-11 18:00:00,0.0,0.0
-JPMorgan Sustainable Consumptio,CIRC,NasdaqGM,,0.0,0.0
+JPMorgan Sustainable Consumptio,CIRC,NasdaqGM,,,
 Cerberus Cyber Sentinel Corpora,CISO,NasdaqCM,,0.0,0.0
 Cartica Acquisition Corp,CITE,NasdaqGM,,0.0,0.0
 Cartica Acquisition Corp,CITEU,NasdaqGM,,0.0,0.0
-Cartica Acquisition Corp Warran,CITEW,NasdaqGM,,0.0,0.0
+Cartica Acquisition Corp Warran,CITEW,NasdaqGS,,0.0,0.0
 "Civista Bancshares, Inc.",CIVB,NasdaqCM,2023-02-28 18:00:00,0.56,0.03171008
 "Civitas Resources, Inc.",CIVI,NYSE,2023-03-29 19:00:00,6.287,0.10378013
 CompX International Inc.,CIX,NYSE American,2023-03-20 19:00:00,1.0,0.059880238
@@ -1944,7 +1944,7 @@ Core Laboratories N.V.,CLB,NYSE,2023-03-05 18:00:00,0.04,0.0019714143
 Colombier Acquisition Corp.,CLBR,NYSE,,0.0,0.0
 ,CLBR-WS,,,,
 Cellebrite DI Ltd.,CLBT,NasdaqGS,,0.0,0.0
-Cellebrite DI Ltd. Warrants,CLBTW,NasdaqGS,,,
+Cellebrite DI Ltd. Warrants,CLBTW,NasdaqGM,,,
 Direxion Daily Cloud Computing ,CLDL,NYSEArca,,,
 Chatham Lodging Trust (REIT),CLDT,NYSE,2023-04-16 19:00:00,0.07,0.006802721
 "Celldex Therapeutics, Inc.",CLDX,NasdaqCM,2019-02-10 18:00:00,0.0,0.0
@@ -1982,7 +1982,7 @@ ClearPoint Neuro Inc.,CLPT,NasdaqCM,2016-07-26 19:00:00,0.0,0.0
 ClimateRock,CLRC,NasdaqGM,,0.0,0.0
 ClimateRock,CLRCR,NasdaqGM,,0.0,0.0
 ClimateRock,CLRCU,NasdaqGM,,0.0,0.0
-ClimateRock Warrant,CLRCW,NasdaqGM,,0.0,0.0
+ClimateRock Warrant,CLRCW,NasdaqGS,,0.0,0.0
 IQ Chaikin U.S. Large Cap ETF,CLRG,NasdaqGM,,,
 "ClearOne, Inc.",CLRO,NasdaqCM,2018-03-20 19:00:00,0.0,0.0
 "Celestica, Inc.",CLS,NYSE,,0.0,0.0
@@ -2031,7 +2031,7 @@ Cimpress PLC,CMPR,NasdaqGS,,0.0,0.0
 COMPASS Pathways Plc - American,CMPS,NasdaqGS,,0.0,0.0
 "Compass Therapeutics, Inc.",CMPX,NasdaqCM,,0.0,0.0
 "Comera Life Sciences Holdings, ",CMRA,NasdaqCM,,0.0,0.0
-,CMRAW,NasdaqCM,,0.0,0.0
+,CMRAW,NasdaqGM,,0.0,0.0
 Costamare Inc.,CMRE,NYSE,2023-02-06 18:00:00,0.46,0.047569804
 "Chimerix, Inc.",CMRX,NasdaqGM,,0.0,0.0
 CMS Energy Corporation,CMS,NYSE,2023-02-27 18:00:00,1.84,0.029841065
@@ -2060,7 +2060,7 @@ CNFinance Holdings Limited,CNF,NYSE,,0.0,0.0
 "Conifer Holdings, Inc. - Senior",CNFRL,NasdaqGM,2018-12-30 18:00:00,,
 Canna-Global Acquisition Corp,CNGL,NasdaqGM,,0.0,0.0
 Canna-Global Acquisition Corp,CNGLU,NasdaqGM,,0.0,0.0
-Canna-Global Acquisition Corp W,CNGLW,NasdaqGM,,0.0,0.0
+Canna-Global Acquisition Corp W,CNGLW,NasdaqGS,,0.0,0.0
 CNH Industrial N.V.,CNHI,NYSE,2023-05-02 19:00:00,0.385,0.027017543
 Canadian National Railway Compa,CNI,NYSE,2023-03-30 19:00:00,2.93,0.025436236
 Cinemark Holdings Inc Cinemark ,CNK,NYSE,2020-03-19 19:00:00,0.0,0.0
@@ -2175,7 +2175,7 @@ CPS Technologies Corp.,CPSH,NasdaqCM,,0.0,0.0
 Camden Property Trust,CPT,NYSE,2023-04-16 19:00:00,3.76,0.035084445
 Crown PropTech Acquisitions,CPTK,NYSE,,0.0,0.0
 "Cepton, Inc.",CPTN,NasdaqCM,,0.0,0.0
-,CPTNW,NasdaqCM,,0.0,0.0
+,CPTNW,NasdaqGM,,0.0,0.0
 Compute Health Acquisition Corp,CPUH,NYSE,,0.0,0.0
 ,CPUH-WS,,,,
 Calamos Long/Short Equity & Dyn,CPZ,NasdaqGS,2023-03-19 19:00:00,0.0,0.0
@@ -2203,10 +2203,10 @@ Cresud S.A.C.I.F. y A. Warrant,CRESW,NasdaqCM,,,
 Cresud S.A.C.I.F. y A.,CRESY,NasdaqGS,2022-12-08 18:00:00,0.0,0.0
 "Creative Realities, Inc.",CREX,NasdaqCM,2018-10-30 19:00:00,0.0,0.0
 "Creative Realities, Inc.",CREXW,NasdaqCM,,,
-33138,CRF,NYSE,2019-03-28 19:00:00,2.081,0.29771104
+33138,CRF,NYSE American,2019-03-28 19:00:00,2.081,0.29771104
 "Charge Enterprises, Inc.",CRGE,NasdaqGM,2020-10-05 19:00:00,0.0,0.0
 Freightos Limited,CRGO,NasdaqCM,,0.0,0.0
-Freightos Limited Warrants,CRGOW,NasdaqCM,,0.0,0.0
+Freightos Limited Warrants,CRGOW,NasdaqGM,,0.0,0.0
 Crescent Energy Company,CRGY,NYSE,2023-03-30 19:00:00,0.68,0.06719368
 CRH PLC,CRH,NYSE,2023-05-10 19:00:00,1.27,0.026935311
 "Carter's, Inc.",CRI,NYSE,2023-03-16 19:00:00,3.0,0.0426864
@@ -2257,7 +2257,7 @@ Carlisle Companies Incorporated,CSL,NYSE,2023-02-28 18:00:00,2.58,0.011588734
 "Consilium Acquisition Corp I, L",CSLM,NasdaqGM,,0.0,0.0
 "Consilium Acquisition Corp I, L",CSLMR,NasdaqGM,,0.0,0.0
 "Consilium Acquisition Corp I, L",CSLMU,NasdaqGM,,0.0,0.0
-"Consilium Acquisition Corp I, L",CSLMW,NasdaqGM,,0.0,0.0
+"Consilium Acquisition Corp I, L",CSLMW,NasdaqGS,,0.0,0.0
 ProShares Large Cap Core Plus,CSM,BATS,,,
 IQ Chaikin U.S. Small Cap ETF,CSML,NasdaqGM,,0.0,0.0
 CSP Inc.,CSPI,NasdaqGM,2023-03-13 19:00:00,0.09,0.007525084
@@ -2604,7 +2604,7 @@ Danaher Corporation,DHR,NYSE,2023-04-27 19:00:00,1.0,0.004130354
 WisdomTree U.S. High Dividend F,DHS,NYSEArca,,,
 "DHT Holdings, Inc.",DHT,NYSE,2023-02-23 18:00:00,0.48,0.044036698
 "DHI Group, Inc.",DHX,NYSE,,0.0,0.0
-146692,DHY,NYSE,2019-01-23 18:00:00,0.186,0.10689656
+146692,DHY,NYSE American,2019-01-23 18:00:00,0.186,0.10689656
 SPDR Dow Jones Industrial Avera,DIA,NYSEArca,,5.62,0.017587781
 Columbia Diversified Fixed Inco,DIAL,NYSEArca,,0.0,0.0
 Nuveen Dow 30SM Dynamic Overwri,DIAX,NYSE,2018-12-30 18:00:00,1.147,0.08043478
@@ -2673,7 +2673,7 @@ FT Cboe Vest U.S. Equity Deep B,DMAY,BATS,,,
 Dreyfus Municipal Bond Infrastr,DMB,NYSE,2019-01-31 18:00:00,0.636,0.05905292
 Democracy International Fund,DMCY,NYSEArca,,,
 AAM S&P Developed Markets High ,DMDV,NYSEArca,,,
-25694,DMF,NYSE,2019-02-27 18:00:00,0.344,0.054344393
+25694,DMF,NYSE American,2019-02-27 18:00:00,0.344,0.054344393
 "Dorchester Minerals, L.P.",DMLP,NasdaqGS,2023-02-08 18:00:00,3.742,0.13597384
 Western Asset Mortgage Defined ,DMO,NYSE,2019-02-28 18:00:00,1.24,0.11654135
 Digimarc Corporation,DMRC,NasdaqGS,2014-05-11 19:00:00,0.0,0.0
@@ -2791,7 +2791,7 @@ Digital Transformation Opportunities Corp. Warrant,DTOCW,NasdaqCM,,,
 First Trust Alerian Disruptive ,DTRE,NYSEArca,,0.0,0.0
 Datasea Inc.,DTSS,NasdaqCM,2018-04-30 19:00:00,0.0,0.0
 Data Storage Corporation,DTST,NasdaqCM,,0.0,0.0
-DATA STORAGE CORP C/WTS 13/05/2,DTSTW,NasdaqCM,,,
+Data Storage Corporation Warrant,DTSTW,NasdaqCM,,,
 DTE Energy Company 2017 Series ,DTW,NYSE,2019-05-31 19:00:00,3.41,0.14826088
 Merlyn.AI SectorSurfer Momentum,DUDE,BATS,,,
 DUET Acquisition Corp.,DUET,NasdaqGM,,0.0,0.0
@@ -2864,7 +2864,7 @@ Electronic Arts Inc.,EA,NasdaqGS,2023-03-21 19:00:00,0.74,0.006643922
 Edify Acquisition Corp.,EAC,NasdaqCM,,0.0,0.0
 Edify Acquisition Corp.,EACPU,NasdaqCM,,0.0,0.0
 Edify Acquisition Corp.,EACPW,NasdaqCM,,,
-238549,EAD,NYSE,2019-02-28 18:00:00,0.714,0.11497584
+238549,EAD,NYSE American,2019-02-28 18:00:00,0.714,0.11497584
 GrafTech International Ltd.,EAF,NYSE,2023-03-30 19:00:00,0.04,0.008281574
 Simplify Exchange Traded Funds ,EAFD,NYSEArca,,,
 iShares ESG Aware U.S. Aggregat,EAGG,NYSEArca,,0.0,0.0
@@ -2903,8 +2903,8 @@ Eagle Point Credit Company Inc.,ECC,NYSE,2019-03-28 19:00:00,1.62,0.15606937
 Eagle Point Credit Company Inc.,ECCC,NYSE,2023-06-29 19:00:00,1.62,0.077819146
 Eagle Point Credit Company Inc.,ECCV,NYSE,2023-03-30 19:00:00,,
 Eagle Point Credit Company Inc.,ECCW,NYSE,2023-03-30 19:00:00,,
-Eagle Point Credit Company Inc.,ECCX,NYSE,2023-03-30 19:00:00,2.4,0.102345414
-27623,ECF,NYSE,2018-12-27 18:00:00,1.5,0.18867925
+Eagle Point Credit Company Inc.,ECCX,NYSE,2023-03-30 19:00:00,2.4,0.10170698
+27623,ECF,NYSE American,2018-12-27 18:00:00,1.5,0.18867925
 iShares Inc. iShares MSCI Chile,ECH,BATS,,0.0,0.0
 Ecolab Inc.,ECL,NYSE,2023-04-16 19:00:00,2.06,0.012937261
 First Trust EIP Carbon Impact E,ECLN,NYSEArca,,,
@@ -3013,7 +3013,7 @@ Eagle Point Income Company Inc.,EICA,NYSE,2023-06-29 19:00:00,1.53,0.06423174
 iShares MSCI Indonesia ETF,EIDO,NYSEArca,,0.0,0.0
 Employers Holdings Inc,EIG,NYSE,2023-03-14 19:00:00,1.03,0.02503646
 "Eiger BioPharmaceuticals, Inc.",EIGR,NasdaqGM,,0.0,0.0
-100401,EIM,NYSE,2019-01-30 18:00:00,0.549,0.054626867
+100401,EIM,NYSE American,2019-01-30 18:00:00,0.549,0.054626867
 VanEck Energy Income ETF,EINC,NYSEArca,,0.0,0.0
 First Trust Exchange-Traded Fun,EIPX,NYSEArca,,0.0,0.0
 iShares Trust iShares MSCI Irel,EIRL,NYSEArca,,,
@@ -3135,7 +3135,7 @@ Entera Bio Ltd.,ENTXW,NasdaqCM,,,
 "Enova International, Inc.",ENVA,NYSE,,0.0,0.0
 "Enveric Biosciences, Inc.",ENVB,NasdaqCM,2019-11-24 18:00:00,0.0,0.0
 Enovix Corporation,ENVX,NasdaqGS,,0.0,0.0
-19801,ENX,NYSE,2019-01-30 18:00:00,0.418,0.044658124
+19801,ENX,NYSE American,2019-01-30 18:00:00,0.418,0.044658124
 "Enzo Biochem, Inc.",ENZ,NYSE,,0.0,0.0
 iShares MSCI New Zealand ETF,ENZL,NasdaqGM,2016-12-27 18:00:00,0.0,0.0
 Innovator Emerging Markets Powe,EOCT,NYSEArca,,,
@@ -3188,13 +3188,13 @@ IQ Engender Equality ETF,EQUL,NYSEArca,,,
 Invesco S&P 100 Equal Weight ET,EQWL,NYSEArca,,,
 Equinox Gold Corp.,EQX,NYSE American,2019-08-19 19:00:00,0.0,0.0
 "Erasca, Inc.",ERAS,NasdaqGS,,0.0,0.0
-109188,ERC,NYSE,2019-02-28 18:00:00,1.095,0.12112832
+109188,ERC,NYSE American,2019-02-28 18:00:00,1.095,0.12112832
 East Resources Acquisition Comp,ERES,NasdaqCM,,0.0,0.0
 East Resources Acquisition Comp,ERESU,NasdaqCM,,0.0,0.0
 East Resources Acquisition Comp,ERESW,NasdaqCM,,,
 iShares Environmentally Aware R,ERET,NasdaqGM,,0.0,0.0
 Enerplus Corporation,ERF,NYSE,2023-03-14 19:00:00,0.181,0.013681028
-40135,ERH,NYSE,2019-02-28 18:00:00,0.899,0.08561905
+40135,ERH,NYSE American,2019-02-28 18:00:00,0.899,0.08561905
 Ericsson,ERIC,NasdaqGS,2022-10-13 19:00:00,0.0,0.0
 Erie Indemnity Company,ERIE,NasdaqGS,2023-04-19 19:00:00,4.52,0.01992506
 "Energy Recovery, Inc.",ERII,NasdaqGS,,0.0,0.0
@@ -3313,7 +3313,7 @@ Evergreen Corporation Warrant,EVGRW,NasdaqGM,,0.0,0.0
 VelocityShares 1x Long VSTOXX F,EVIX,BATS,,,
 "Evelo Biosciences, Inc.",EVLO,NasdaqGS,,0.0,0.0
 "Evolv Technologies Holdings, In",EVLV,NasdaqCM,,0.0,0.0
-29200,EVM,NYSE,,0.459,0.051
+29200,EVM,NYSE American,,0.459,0.051
 Invesco Electric Vehicle Metals,EVMT,NasdaqGM,,,
 Eaton Vance Municipal Income Tr,EVN,NYSE,2019-01-21 18:00:00,0.559,0.056294058
 AltShares Event-Driven ETF,EVNT,NYSEArca,,,
@@ -3331,7 +3331,7 @@ Eaton Vance Tax Advantaged Divi,EVT,NYSE,2019-01-30 18:00:00,1.951,0.0900323
 Vertical Aerospace Ltd.,EVTL,NYSE,,0.0,0.0
 "Envirotech Vehicles, Inc.",EVTV,NasdaqCM,,0.0,0.0
 iShares Trust iShares ESG Aware,EVUS,BATS,,0.0,0.0
-316100,EVV,NYSE,2019-01-09 18:00:00,1.2,0.12474013
+316100,EVV,NYSE American,2019-01-09 18:00:00,1.2,0.12474013
 VanEck Environmental Services E,EVX,NYSEArca,,0.0,0.0
 Edwards Lifesciences Corporatio,EW,NYSE,,0.0,0.0
 iShares MSCI Australia Index Fu,EWA,NYSEArca,,0.577,0.026419414
@@ -3428,7 +3428,7 @@ Fat Projects Acquisition Corp,FATP,NasdaqGM,,0.0,0.0
 Fat Projects Acquisition Corp,FATPU,NasdaqGM,,0.0,0.0
 Fat Projects Acquisition Corp Warrant,FATPW,NasdaqGM,,,
 FT Cboe Vest U.S. Equity Buffer,FAUG,BATS,,0.0,0.0
-592314,FAX,NYSE,2019-01-30 18:00:00,0.33,0.124060154
+592314,FAX,NYSE American,2019-01-30 18:00:00,0.33,0.124060154
 Direxion Financial Bear 3X Shar,FAZ,NYSEArca,,,
 FaZe Holdings Inc.,FAZE,NasdaqCM,,0.0,0.0
 ,FAZEW,NasdaqCM,,0.0,0.0
@@ -3465,7 +3465,7 @@ Fidelity Cloud Computing ETF,FCLD,BATS,,,
 "First Citizens BancShares, Inc.",FCNCA,NasdaqGS,2023-03-14 19:00:00,2.16,0.0040004444
 "First Citizens BancShares, Inc.",FCNCO,NasdaqGS,2023-03-14 19:00:00,2.16,0.11569363
 "First Citizens BancShares, Inc.",FCNCP,NasdaqGS,2023-03-14 19:00:00,2.16,0.10290615
-17210,FCO,NYSE,2019-01-30 18:00:00,0.84,0.1603237
+17210,FCO,NYSE American,2019-01-30 18:00:00,0.84,0.1603237
 Fidelity MSCI Communication Ser,FCOM,NYSEArca,,,
 Fidelity Corporate Bond ETF,FCOR,NYSEArca,,,
 Fidelity Stocks for Inflation E,FCPI,BATS,,,
@@ -3527,7 +3527,7 @@ First Trust Emerging Markets Al,FEM,NasdaqGM,2018-03-28 19:00:00,0.0,0.0
 First Trust Emerging Markets Lo,FEMB,NasdaqGM,2017-05-30 19:00:00,0.0,0.0
 First Trust Emerging Markets Sm,FEMS,NasdaqGM,2018-06-28 19:00:00,,
 Femasys Inc.,FEMY,NasdaqCM,,0.0,0.0
-17547,FEN,NYSE,2019-01-30 18:00:00,1.2,0.09654063
+17547,FEN,NYSE American,2019-01-30 18:00:00,1.2,0.09654063
 Fennec Pharmaceuticals Inc.,FENC,NasdaqCM,,0.0,0.0
 Phoenix New Media Limited,FENG,NYSE,2020-12-21 18:00:00,0.0,0.0
 Fidelity MSCI Energy Index ETF,FENY,NYSEArca,,0.0,0.0
@@ -3911,7 +3911,7 @@ First Trust Capital Strength ET,FTCS,NasdaqGM,2017-03-30 19:00:00,0.0,0.0
 First Trust Dividend Strength E,FTDS,NasdaqGM,,0.361,0.008930847
 Fidelity MSCI Information Techn,FTEC,NYSEArca,,,
 "Fuel Tech, Inc.",FTEK,NasdaqCM,,0.0,0.0
-52385,FTF,NYSE,2019-02-14 18:00:00,0.0,0.0
+52385,FTF,NYSE American,2019-02-14 18:00:00,0.0,0.0
 Future FinTech Group Inc.,FTFT,NasdaqCM,,0.0,0.0
 First Trust Global Tactical Com,FTGC,NasdaqGM,,,
 First Trust Growth Strength ETF,FTGS,NasdaqGM,,0.0,0.0
@@ -3919,7 +3919,7 @@ First Trust BuyWrite Income ETF,FTHI,NasdaqGM,,,
 Fathom Holdings Inc.,FTHM,NasdaqCM,,0.0,0.0
 ,FTHY,NYSE,,0.0,0.0
 TechnipFMC plc,FTI,NYSE,2020-04-07 19:00:00,0.0,0.0
-,FTIF,NYSE,,,
+,FTIF,NYSE American,,,
 FutureTech II Acquisition Corp.,FTII,NasdaqGM,,0.0,0.0
 FutureTech II Acquisition Corp.,FTIIU,NasdaqGM,,0.0,0.0
 FutureTech II Acquisition Corp.,FTIIW,NasdaqGM,,0.0,0.0
@@ -4158,7 +4158,7 @@ Green Giant Inc.,GGE,NasdaqCM,2020-09-01 19:00:00,0.0,0.0
 Graco Inc.,GGG,NYSE,2023-05-02 19:00:00,0.865,0.0128777735
 Direxion Daily GOOGL Bull 1.5X ,GGLL,NasdaqGM,,,
 Direxion Daily GOOGL Bear 1X Sh,GGLS,NasdaqGM,,,
-"GAMCO Global Gold, Natural Reso",GGN,NYSE,2019-03-21 19:00:00,0.36,0.10344828
+"GAMCO Global Gold, Natural Reso",GGN,NYSE American,2019-03-21 19:00:00,0.36,0.10344828
 Gogoro Inc.,GGR,NasdaqGS,,0.0,0.0
 Gogoro Inc. Warrant,GGROW,NasdaqGS,,0.0,0.0
 Gabelli Growth Innovators ETF,GGRW,NYSEArca,,,
@@ -4229,7 +4229,7 @@ Globalink Investment Inc.,GLLIU,NasdaqGM,,0.0,0.0
 Globalink Investment Inc. Warrants,GLLIW,NasdaqGM,,,
 Galmed Pharmaceuticals Ltd.,GLMD,NasdaqCM,,0.0,0.0
 Golar LNG Limited,GLNG,NasdaqGS,2019-07-02 19:00:00,0.0,0.0
-Clough Global Opportunities Fun,GLO,NYSE,2019-01-30 18:00:00,1.16,0.25262973
+Clough Global Opportunities Fun,GLO,NYSE American,2019-01-30 18:00:00,1.16,0.25262973
 Globant S.A.,GLOB,NYSE,,0.0,0.0
 iShares Global Equity Factor ET,GLOF,NYSEArca,,0.0,0.0
 GasLog Partners LP,GLOP,NYSE,2023-02-08 18:00:00,0.04,0.004878049
@@ -4237,7 +4237,7 @@ Goldman Sachs ETF Trust Goldman,GLOV,BATS,,0.0,0.0
 Global Partners LP Global Partn,GLP,NYSE,2023-02-13 18:00:00,2.46,0.08427544
 Galapagos NV,GLPG,NasdaqGS,,0.0,0.0
 "Gaming and Leisure Properties, ",GLPI,NasdaqGS,2023-03-23 19:00:00,2.805,0.055832006
-Clough Global Equity Fund Cloug,GLQ,NYSE,2019-01-30 18:00:00,1.43,0.24654748
+Clough Global Equity Fund Cloug,GLQ,NYSE American,2019-01-30 18:00:00,1.43,0.24654748
 "Greenlight Reinsurance, Ltd.",GLRE,NasdaqGS,,0.0,0.0
 Northern Lights Fund Trust IV I,GLRY,NYSEArca,,,
 "Gelesis Holdings, Inc.",GLS,NYSE,,0.0,0.0
@@ -4250,9 +4250,9 @@ Glatfelter Corporation,GLT,NYSE,2022-07-31 19:00:00,0.28,0.093959734
 Galata Acquisition Corp.,GLTA,NYSE American,,0.0,0.0
 "Galecto, Inc.",GLTO,NasdaqGS,,0.0,0.0
 abrdn Physical Precious Metals ,GLTR,NYSEArca,,0.0,0.0
-6968,GLU,NYSE,2019-03-21 19:00:00,1.2,0.0868156
+6968,GLU,NYSE American,2019-03-21 19:00:00,1.2,0.0868156
 "Monte Rosa Therapeutics, Inc.",GLUE,NasdaqGS,,0.0,0.0
-25219,GLV,NYSE,2019-01-30 18:00:00,1.099,0.1958897
+25219,GLV,NYSE American,2019-01-30 18:00:00,1.099,0.1958897
 Corning Incorporated,GLW,NYSE,2023-03-29 19:00:00,1.08,0.03291679
 "GlycoMimetics, Inc.",GLYC,NasdaqGM,,0.0,0.0
 General Motors Company,GM,NYSE,2023-03-15 19:00:00,0.18,0.0052432274
@@ -4356,7 +4356,7 @@ Greenidge Generation Holdings I,GREEL,NasdaqGS,2023-01-30 18:00:00,,
 Goldman Sachs Future Real Estat,GREI,NYSEArca,,,
 Global X MSCI Greece ETF,GREK,NYSEArca,,0.0,0.0
 IQ ARB Global Resources ETF,GRES,NYSEArca,,,
-"Eagle Capital Growth Fund, Inc.",GRF,NYSE,2018-12-27 18:00:00,0.97,0.11658654
+"Eagle Capital Growth Fund, Inc.",GRF,NYSE American,2018-12-27 18:00:00,0.97,0.11658654
 "Grifols, S.A.",GRFS,NasdaqGS,2021-06-13 19:00:00,0.0,0.0
 Graphex Group Limited,GRFX,NYSE American,,0.0,0.0
 First Trust NASDAQ Clean Edge S,GRID,NasdaqGM,2016-12-29 18:00:00,,
@@ -4441,7 +4441,7 @@ Goldman Sachs Access Inflation ,GTIP,BATS,,,
 GitLab Inc.,GTLB,NasdaqGS,,0.0,0.0
 "Chart Industries, Inc.",GTLS,NYSE,,0.0,0.0
 "Gray Television, Inc.",GTN,NYSE,2023-03-30 19:00:00,0.32,0.035674468
-"Gray Television, Inc.",GTN-A,NYSE,2023-03-30 19:00:00,0.32,0.035834264
+"Gray Television, Inc.",GTN-A,NYSE,2023-03-30 19:00:00,0.32,0.036488026
 Invesco Total Return Bond ETF,GTO,NYSEArca,,,
 WisdomTree Target Range Fund,GTR,NasdaqGM,,,
 Garrett Motion Inc.,GTX,NasdaqGS,,0.0,0.0
@@ -4487,7 +4487,7 @@ Haemonetics Corporation,HAE,NYSE,,0.0,0.0
 Hanmi Financial Corporation,HAFC,NasdaqGS,2023-02-22 18:00:00,0.94,0.047667343
 Healthcare AI Acquisition Corp.,HAIA,NasdaqGM,,0.0,0.0
 Healthcare AI Acquisition Corp.,HAIAU,NasdaqGM,,0.0,0.0
-Healthcare AI Acquisition Corp.,HAIAW,NasdaqGS,,0.0,0.0
+Healthcare AI Acquisition Corp.,HAIAW,NasdaqGM,,0.0,0.0
 SPDR S&P Kensho Smart Mobility ,HAIL,NYSEArca,,,
 "The Hain Celestial Group, Inc.",HAIN,NasdaqGS,,0.0,0.0
 Halliburton Company,HAL,NYSE,2023-03-28 19:00:00,0.48,0.01578428
@@ -4529,7 +4529,7 @@ Hudbay Minerals Inc.,HBM,NYSE,2023-03-23 19:00:00,0.015,0.0034090907
 HUTCHMED (China) Limited,HCM,NasdaqGS,,0.0,0.0
 HCM Acquisition Corp,HCMA,NasdaqGM,,0.0,0.0
 HCM Acquisition Corp,HCMAU,NasdaqGM,,0.0,0.0
-HCM Acquisition Corp Warrant,HCMAW,NasdaqGS,,0.0,0.0
+HCM Acquisition Corp Warrant,HCMAW,NasdaqGM,,0.0,0.0
 Jaws Hurricane Acquisition Corp,HCNE,NasdaqCM,,0.0,0.0
 Jaws Hurricane Acquisition Corp,HCNEU,NasdaqCM,,0.0,0.0
 Jaws Hurricane Acquisition Corp. Warrant,HCNEW,NasdaqCM,,,
@@ -4602,12 +4602,12 @@ Howard Hughes Corporation (The),HHC,NYSE,,0.0,0.0
 HHG Capital Corporation,HHGC,NasdaqCM,,0.0,0.0
 HHG Capital Corporation,HHGCR,NasdaqCM,,,
 HHG Capital Corporation,HHGCU,NasdaqCM,,0.0,0.0
-HHG Capital Corporation Warrant,HHGCW,NasdaqGM,,,
+HHG Capital Corporation Warrant,HHGCW,NasdaqCM,,,
 HH&L Acquisition Co.,HHLA,NYSE,,0.0,0.0
 ,HHLA-WS,,,,
 HeadHunter Group PLC,HHR,NasdaqGS,2022-02-09 18:00:00,0.0,0.0
 Hammerhead Energy Inc.,HHRS,NasdaqCM,,0.0,0.0
-Hammerhead Energy Inc. Warrant,HHRSW,NasdaqGM,,0.0,0.0
+Hammerhead Energy Inc. Warrant,HHRSW,NasdaqCM,,0.0,0.0
 "Harte-Hanks, Inc.",HHS,NasdaqGM,2018-01-31 18:00:00,0.0,0.0
 Hillenbrand Inc,HI,NYSE,2023-03-30 19:00:00,0.873,0.02
 "Hibbett, Inc.",HIBB,NasdaqGS,2023-03-27 19:00:00,1.0,0.016020507
@@ -4648,7 +4648,7 @@ Hartford Longevity Economy ETF,HLGE,NYSEArca,,,
 Harmonic Inc.,HLIT,NasdaqGS,,0.0,0.0
 Holley Inc.,HLLY,NYSE,,0.0,0.0
 Hillman Solutions Corp.,HLMN,NasdaqGM,,0.0,0.0
-Haleon plc,HLN,NYSE,2023-04-26 19:00:00,0.024,0.0030839213
+Haleon plc,HLN,NYSE,2023-04-26 19:00:00,0.024,0.0030839345
 Hamilton Lane Incorporated,HLNE,NasdaqGS,2023-04-05 19:00:00,1.55,0.023220973
 Hilton Worldwide Holdings Inc.,HLT,NYSE,2023-03-30 19:00:00,0.45,0.0033129647
 Cue Health Inc.,HLTH,NasdaqGS,,0.0,0.0
@@ -4675,7 +4675,7 @@ HNR Acquisition Corp,HNRA,NYSE American,,0.0,0.0
 Hallador Energy Company,HNRG,NasdaqCM,2020-02-13 18:00:00,0.0,0.0
 "The Honest Company, Inc.",HNST,NasdaqGS,,0.0,0.0
 "Hanover Bancorp, Inc.",HNVR,NasdaqGS,2023-02-13 18:00:00,0.3,0.015625
-Pioneer Diversified High Income,HNW,NYSE,2019-01-08 18:00:00,1.32,0.132
+Pioneer Diversified High Income,HNW,NYSE American,2019-01-08 18:00:00,1.32,0.132
 Hooker Furnishings Corporation,HOFT,NasdaqGS,2023-03-30 19:00:00,0.8,0.04006009
 Hall of Fame Resort & Entertain,HOFV,NasdaqCM,,0.0,0.0
 Hall of Fame Resort & Entertain,HOFVW,NasdaqCM,,,
@@ -4683,7 +4683,7 @@ Hall of Fame Resort & Entertain,HOFVW,NasdaqCM,,,
 AdvisorShares North Square McKe,HOLD,NYSEArca,,0.0,0.0
 Hollysys Automation Technologie,HOLI,NasdaqGS,2022-04-24 19:00:00,0.0,0.0
 MicroCloud Hologram Inc.,HOLO,NasdaqCM,,0.0,0.0
-,HOLOW,NasdaqGM,,0.0,0.0
+,HOLOW,NasdaqCM,,0.0,0.0
 "Hologic, Inc.",HOLX,NasdaqGS,,0.0,0.0
 LifeGoal Home Down Payment Inve,HOM,NYSEArca,,,
 "Home BancShares, Inc.",HOMB,NYSE,2023-03-07 18:00:00,0.66,0.030456854
@@ -4736,7 +4736,7 @@ Hesai Group,HSAI,NasdaqGS,,0.0,0.0
 "HSBC Holdings, plc.",HSBC,NYSE,2023-04-26 19:00:00,0.32,0.009470257
 Harsco Corporation,HSC,NYSE,2016-02-15 18:00:00,0.0,0.0
 "Heart Test Laboratories, Inc.",HSCS,NasdaqCM,,0.0,0.0
-"Heart Test Laboratories, Inc. W",HSCSW,NasdaqGM,,0.0,0.0
+"Heart Test Laboratories, Inc. W",HSCSW,NasdaqCM,,0.0,0.0
 iShares Currency Hedged MSCI EA,HSCZ,NYSEArca,,,
 "Helius Medical Technologies, In",HSDT,NasdaqCM,2021-01-03 18:00:00,0.0,0.0
 "Henry Schein, Inc.",HSIC,NasdaqGS,,0.0,0.0
@@ -4864,7 +4864,7 @@ Horizon Acquisition Corporation,HZON,NYSE American,,0.0,0.0
 IAC Inc.,IAC,NasdaqGS,2015-11-30 18:00:00,0.0,0.0
 ,IACA-WS,,,,
 Voya Asia Pacific High Dividend,IAE,NYSE,2019-01-14 18:00:00,0.0,0.0
-61617,IAF,NYSE,2019-01-09 18:00:00,0.55,0.12941177
+61617,IAF,NYSE American,2019-01-09 18:00:00,0.55,0.12941177
 Iamgold Corporation,IAG,NYSE,2013-07-11 19:00:00,0.0,0.0
 iShares International Aggregate,IAGG,BATS,,0.0,0.0
 iShares U.S. Broker-Dealers & S,IAI,NYSEArca,,0.0,0.0
@@ -4954,7 +4954,7 @@ Pacer Developed Markets Interna,ICOW,BATS,,0.0,0.0
 "Intercept Pharmaceuticals, Inc.",ICPT,NasdaqGS,,0.0,0.0
 BlackRock Ultra Short-Term Bond,ICSH,BATS,,0.0,0.0
 SeaStar Medical Holding Corpora,ICU,NasdaqCM,,0.0,0.0
-,ICUCW,NasdaqGM,,0.0,0.0
+,ICUCW,NasdaqCM,,0.0,0.0
 "ICU Medical, Inc.",ICUI,NasdaqGS,,0.0,0.0
 iShares Convertible Bond ETF,ICVT,BATS,,0.0,0.0
 "Icosavax, Inc.",ICVX,NasdaqGS,,0.0,0.0
@@ -5265,7 +5265,7 @@ IQ Candriam ESG U.S. Large Cap ,IQSU,NYSEArca,,,
 Ingersoll Rand Inc.,IR,NYSE,2023-03-23 19:00:00,0.08,0.0015114301
 Iris Acquisition Corp,IRAA,NasdaqCM,,0.0,0.0
 Iris Acquisition Corp,IRAAU,NasdaqCM,,0.0,0.0
-,IRAAW,NasdaqGM,,0.0,0.0
+,IRAAW,NasdaqCM,,0.0,0.0
 Litman Gregory Funds Trust iMGP,IRBA,NYSEArca,,0.0,0.0
 iShares Robotics and Artificial,IRBO,NYSEArca,,,
 iRobot Corporation,IRBT,NasdaqGS,,0.0,0.0
@@ -5321,7 +5321,7 @@ iShares U.S. Aerospace & Defens,ITA,BATS,,,
 Sparkline Intangible Value ETF,ITAN,NYSEArca,,,
 Industrial Tech Acquisitions II,ITAQ,NasdaqGM,,0.0,0.0
 Industrial Tech Acquisitions II,ITAQU,NasdaqGM,,0.0,0.0
-Industrial Tech Acquisitions II,ITAQW,NasdaqGS,,0.0,0.0
+Industrial Tech Acquisitions II,ITAQW,NasdaqGM,,0.0,0.0
 iShares U.S. Home Construction ,ITB,BATS,,0.0,0.0
 Itau CorpBanca,ITCB,NYSE,2022-04-03 19:00:00,0.0,0.0
 Intra-Cellular Therapies Inc.,ITCI,NasdaqGS,,0.0,0.0
@@ -5350,15 +5350,15 @@ Inventiva S.A. - American Depos,IVA,NasdaqGM,,0.0,0.0
 Alpha Architect International Q,IVAL,BATS,,0.0,0.0
 Investcorp India Acquisition Co,IVCA,NasdaqGM,,0.0,0.0
 Investcorp India Acquisition Co,IVCAU,NasdaqGM,,0.0,0.0
-Investcorp India Acquisition Co,IVCAW,NasdaqGS,,0.0,0.0
+Investcorp India Acquisition Co,IVCAW,NasdaqGM,,0.0,0.0
 Investcorp Europe Acquisition C,IVCB,NasdaqGM,,0.0,0.0
 Investcorp Europe Acquisition C,IVCBU,NasdaqGM,,0.0,0.0
-Investcorp Europe Acquisition C,IVCBW,NasdaqGS,,0.0,0.0
+Investcorp Europe Acquisition C,IVCBW,NasdaqGM,,0.0,0.0
 Swiftmerge Acquisition Corp.,IVCP,NasdaqGM,,0.0,0.0
 Swiftmerge Acquisition Corp.,IVCPU,NasdaqGM,,0.0,0.0
-Swiftmerge Acquisition Corp. Wa,IVCPW,NasdaqGS,,0.0,0.0
+Swiftmerge Acquisition Corp. Wa,IVCPW,NasdaqGM,,0.0,0.0
 "Iveda Solutions, Inc.",IVDA,NasdaqCM,,0.0,0.0
-"Iveda Solutions, Inc. Warrant",IVDAW,NasdaqGS,,0.0,0.0
+"Iveda Solutions, Inc. Warrant",IVDAW,NasdaqCM,,0.0,0.0
 Invesco Focused Discovery Growt,IVDG,BATS,,,
 iShares S&P 500 Value ETF,IVE,NYSEArca,,2.849,0.019605009
 iShares Emergent Food and AgTec,IVEG,NasdaqGM,,0.0,0.0
@@ -5476,7 +5476,7 @@ JPMorgan Nasdaq Equity Premium ,JEPQ,NasdaqGM,,,
 U.S. Global Jets ETF,JETS,NYSEArca,,0.0,0.0
 Adamas One Corp.,JEWL,NasdaqCM,,0.0,0.0
 Jeffs' Brands Ltd,JFBR,NasdaqCM,,0.0,0.0
-,JFBRW,NasdaqGM,,0.0,0.0
+,JFBRW,NasdaqCM,,0.0,0.0
 Jiayin Group Inc.,JFIN,NasdaqGM,,0.0,0.0
 Nuveen Floating Rate Income Fun,JFR,NYSE,2019-01-31 18:00:00,0.704,0.08922687
 9F Inc.,JFU,NasdaqGM,,0.0,0.0
@@ -5603,7 +5603,7 @@ Jupiter Wellness Acquisition Co,JWAC,NasdaqGM,,0.0,0.0
 Jupiter Wellness Acquisition Co,JWACR,NasdaqGM,,,
 Jowell Global Ltd.,JWEL,NasdaqCM,,0.0,0.0
 "Nordstrom, Inc.",JWN,NYSE,2023-03-28 19:00:00,0.76,0.04408353
-Jaws Mustang Acquisition Corp.,JWSM,NYSE,,0.0,0.0
+Jaws Mustang Acquisition Corp.,JWSM,NYSE American,,0.0,0.0
 ,JWSM-WS,,,,
 iShares Global Utilities ETF,JXI,NYSEArca,,,
 JX Luxventure Limited,JXJT,NasdaqCM,,0.0,0.0
@@ -5624,7 +5624,7 @@ Kalera Public Limited Company,KAL,NasdaqCM,,0.0,0.0
 KraneShares MSCI All China Inde,KALL,NYSEArca,,,
 Kaiser Aluminum Corporation,KALU,NasdaqGS,2023-02-14 18:00:00,3.08,0.04701572
 "KalVista Pharmaceuticals, Inc.",KALV,NasdaqGM,2016-11-21 18:00:00,0.0,0.0
-Kalera Public Limited Company W,KALWW,NasdaqGM,,0.0,0.0
+Kalera Public Limited Company W,KALWW,NasdaqCM,,0.0,0.0
 Kaman Corporation,KAMN,NYSE,2023-04-12 19:00:00,0.8,0.03646308
 Innovator U.S. Small Cap Power ,KAPR,BATS,,,
 "KAR Auction Services, Inc",KAR,NYSE,2020-04-02 19:00:00,0.0,0.0
@@ -5697,7 +5697,7 @@ KKR Income Opportunities Fund,KIO,NYSE,2019-04-29 19:00:00,0.0,0.0
 Kelso Technologies Inc,KIQ,NYSE American,2014-04-29 19:00:00,0.0,0.0
 "Kirkland's, Inc.",KIRK,NasdaqGS,2015-06-18 19:00:00,0.0,0.0
 "Nauticus Robotics, Inc.",KITT,NasdaqCM,,0.0,0.0
-,KITTW,NasdaqGM,,0.0,0.0
+,KITTW,NasdaqCM,,0.0,0.0
 Innovator U.S. Small Cap Power ,KJAN,BATS,,,
 Innovator U.S. Small Cap Power ,KJUL,BATS,,,
 KKR & Co. Inc.,KKR,NYSE,2023-03-06 18:00:00,0.62,0.012442304
@@ -5817,7 +5817,7 @@ Khosla Ventures Acquisition Co.,KVSC,NasdaqCM,,0.0,0.0
 Kennedy-Wilson Holdings Inc.,KW,NYSE,2023-04-05 19:00:00,0.96,0.054825813
 KWESST Micro Systems Inc.,KWE,NasdaqCM,2020-09-21 19:00:00,0.0,0.0
 KraneShares Trust KraneShares C,KWEB,NYSEArca,2017-12-21 18:00:00,0.0,0.0
-KWESST Micro Systems Inc. warra,KWESW,NasdaqGM,,0.0,0.0
+KWESST Micro Systems Inc. warra,KWESW,NasdaqCM,,0.0,0.0
 Quaker Houghton,KWR,NYSE,2023-04-27 19:00:00,1.7,0.009424549
 iShares Trust iShares MSCI Kuwa,KWT,BATS,,,
 iShares Global Consumer Staples,KXI,NYSEArca,,,
@@ -5851,7 +5851,7 @@ Laser Photonics Corporation,LASE,NasdaqCM,,0.0,0.0
 "nLIGHT, Inc.",LASR,NasdaqGS,,0.0,0.0
 LatAmGrowth SPAC,LATG,NasdaqGM,,0.0,0.0
 LatAmGrowth SPAC,LATGU,NasdaqGM,,0.0,0.0
-LatAmGrowth SPAC Warrants,LATGW,NasdaqGS,,0.0,0.0
+LatAmGrowth SPAC Warrants,LATGW,NasdaqGM,,0.0,0.0
 "Laureate Education, Inc.",LAUR,NasdaqGS,2022-11-16 18:00:00,0.0,0.0
 "CS Disco, Inc.",LAW,NYSE,,0.0,0.0
 "Lazard LTD. Lazard, LTD.",LAZ,NYSE,2023-02-23 18:00:00,1.94,0.05969231
@@ -5862,7 +5862,7 @@ Leatherback Long/Short Alternat,LBAY,NYSEArca,,,
 Lakeshore Acquisition II Corp.,LBBB,NasdaqGM,,0.0,0.0
 Lakeshore Acquisition II Corp.,LBBBR,NasdaqGM,,0.0,0.0
 Lakeshore Acquisition II Corp.,LBBBU,NasdaqGM,,0.0,0.0
-Lakeshore Acquisition II Corp. ,LBBBW,NasdaqGS,,0.0,0.0
+Lakeshore Acquisition II Corp. ,LBBBW,NasdaqGM,,0.0,0.0
 Luther Burbank Corporation,LBC,NasdaqGS,2022-11-13 18:00:00,0.36,0.036548223
 "Longboard Pharmaceuticals, Inc.",LBPH,NasdaqGM,,0.0,0.0
 Liberty Broadband Corporation,LBRDA,NasdaqGS,2021-01-14 18:00:00,0.0,0.0
@@ -5881,7 +5881,7 @@ L Catterton Asia Acquisition Corp Warrant,LCAAW,NasdaqCM,,,
 "Landcadia Holdings IV, Inc. Warrant",LCAHW,NasdaqCM,,,
 Touchstone ETF Trust Touchstone,LCF,BATS,,0.0,0.0
 Locafy Limited,LCFY,NasdaqCM,,0.0,0.0
-,LCFYW,NasdaqGM,,0.0,0.0
+,LCFYW,NasdaqCM,,0.0,0.0
 Sterling Capital Focus Equity E,LCG,NYSEArca,,,
 Lannett Co Inc,LCI,NYSE,,0.0,0.0
 "Lucid Group, Inc.",LCID,NasdaqGS,,0.0,0.0
@@ -6004,7 +6004,7 @@ Logistics Innovation Technologi,LITTU,NasdaqGM,,0.0,0.0
 Logistics Innovation Technologies Corp. Warrant,LITTW,NasdaqGM,,,
 LIV Capital Acquisition Corp. I,LIVB,NasdaqGM,,0.0,0.0
 LIV Capital Acquisition Corp. I,LIVBU,NasdaqGM,,0.0,0.0
-LIV Capital Acquisition Corp. I,LIVBW,NasdaqGS,,0.0,0.0
+LIV Capital Acquisition Corp. I,LIVBW,NasdaqGM,,0.0,0.0
 Live Ventures Incorporated,LIVE,NasdaqCM,2016-12-07 18:00:00,0.0,0.0
 LivaNova PLC,LIVN,NasdaqGS,,0.0,0.0
 "Lixte Biotechnology Holdings, I",LIXT,NasdaqCM,2020-11-19 18:00:00,0.0,0.0
@@ -6040,7 +6040,7 @@ Alliant Energy Corporation,LNT,NasdaqGS,2023-02-14 18:00:00,1.71,0.03220339
 "Lantheus Holdings, Inc.",LNTH,NasdaqGM,,0.0,0.0
 "Light & Wonder, Inc.",LNW,NasdaqGS,,0.0,0.0
 "LanzaTech Global, Inc.",LNZA,NasdaqCM,,0.0,0.0
-,LNZAW,NasdaqGM,,0.0,0.0
+,LNZAW,NasdaqCM,,0.0,0.0
 "Manhattan Bridge Capital, Inc",LOAN,NasdaqCM,2023-01-16 18:00:00,0.5,0.09242144
 "Live Oak Bancshares, Inc.",LOB,NYSE,2023-03-13 19:00:00,0.12,0.004627844
 Live Oak Crestview Climate Acqu,LOCC,NYSE,,0.0,0.0
@@ -6125,7 +6125,7 @@ lululemon athletica inc.,LULU,NasdaqGS,,0.0,0.0
 Luna Innovations Incorporated,LUNA,NasdaqCM,,0.0,0.0
 Pulmonx Corporation,LUNG,NasdaqGS,,0.0,0.0
 "Intuitive Machines, Inc.",LUNR,NasdaqGM,,0.0,0.0
-,LUNRW,NasdaqGM,,0.0,0.0
+,LUNRW,NasdaqCM,,0.0,0.0
 Southwest Airlines Company,LUV,NYSE,2023-03-28 19:00:00,0.18,0.006054491
 LuxUrban Hotels Inc.,LUXH,NasdaqCM,,0.0,0.0
 LAVA Medtech Acquisition Corp.,LVAC,NasdaqGM,,0.0,0.0
@@ -6274,7 +6274,7 @@ Barings Corporate Investors,MCI,NYSE,2019-01-10 18:00:00,1.0,0.07153076
 McKesson Corporation,MCK,NYSE,2023-04-02 19:00:00,2.02,0.0060235574
 mCloud Technologies Corp.,MCLD,NasdaqCM,2019-12-12 18:00:00,0.0,0.0
 mCloud Technologies Corp. - 9.0,MCLDP,NasdaqCM,,0.0,0.0
-mCloud Technologies Corp. Warra,MCLDW,NasdaqGS,,0.0,0.0
+mCloud Technologies Corp. Warra,MCLDW,NasdaqCM,,0.0,0.0
 Madison Covered Call & Equity S,MCN,NYSE,2018-12-30 18:00:00,0.72,0.08966377
 Moody's Corporation,MCO,NYSE,2023-03-16 19:00:00,2.8,0.009563168
 MFS Charter Income Trust,MCR,NYSE,2019-02-27 18:00:00,0.599,0.09724026
@@ -6353,7 +6353,7 @@ PIMCO Equitiy Series PIMCO RAFI,MFDX,NYSEArca,,,
 PIMCO Equitiy Series PIMCO RAFI,MFEM,NYSEArca,,,
 "Mizuho Financial Group, Inc. Sp",MFG,NYSE,2017-12-14 18:00:00,82.5,30.21978
 Mercurity Fintech Holding Inc. ,MFH,NasdaqCM,2020-05-18 19:00:00,0.0,0.0
-31653,MFIC,NasdaqGM,,1.31,0.12018348
+31653,MFIC,NasdaqGM,,0.0,0.0
 Medallion Financial Corp.,MFIN,NasdaqGS,2023-03-30 19:00:00,0.32,0.04232804
 First Trust Flexible Municipal ,MFLX,NasdaqGM,,0.0,0.0
 MFS Municipal Income Trust,MFM,NYSE,2019-02-27 18:00:00,0.263,0.05207921
@@ -6449,7 +6449,7 @@ Malacca Straits Acquisition Com,MLACW,NasdaqCM,,,
 McLaren Technology Acquisition ,MLAIU,NasdaqGM,,0.0,0.0
 Melco Resorts & Entertainment L,MLCO,NasdaqGS,2020-03-11 19:00:00,0.0,0.0
 Moolec Science SA,MLEC,NasdaqCM,,0.0,0.0
-Moolec Science SA Warrant,MLECW,NasdaqGM,,0.0,0.0
+Moolec Science SA Warrant,MLECW,NasdaqCM,,0.0,0.0
 "MicroAlgo, Inc.",MLGO,NasdaqCM,,0.0,0.0
 "Mueller Industries, Inc.",MLI,NYSE,2023-03-30 19:00:00,1.0,0.014134276
 "MillerKnoll, Inc.",MLKN,NasdaqGS,2023-04-14 19:00:00,0.75,0.035578746
@@ -6486,7 +6486,7 @@ MFS Multimarket Income Trust,MMT,NYSE,2019-02-27 18:00:00,0.441,0.10000001
 SPDR S&P 1500 Momentum Tilt ETF,MMTM,NYSEArca,,,
 Western Asset Managed Municipal,MMU,NYSE,2019-02-28 18:00:00,0.778,0.07725919
 MultiMetaVerse Holdings Limited,MMV,NasdaqGM,,0.0,0.0
-,MMVWW,NasdaqGM,,0.0,0.0
+,MMVWW,NasdaqCM,,0.0,0.0
 MakeMyTrip Limited,MMYT,NasdaqGS,,0.0,0.0
 IQ Merger Arbitrage ETF,MNA,NYSEArca,,0.0,0.0
 ALPS ETF Trust ALPS Intermediat,MNBD,NYSEArca,,0.0,0.0
@@ -6514,9 +6514,9 @@ Momentive Global Inc.,MNTV,NasdaqGS,,0.0,0.0
 "Altria Group, Inc.",MO,NYSE,2023-04-27 19:00:00,3.68,0.078515045
 VanEck Morningstar Wide Moat ET,MOAT,BATS,,,
 Mobilicom Limited,MOB,NasdaqCM,,0.0,0.0
-Mobilicom Limited Warrants,MOBBW,NasdaqGM,,0.0,0.0
+Mobilicom Limited Warrants,MOBBW,NasdaqCM,,0.0,0.0
 "Mobiquity Technologies, Inc.",MOBQ,NasdaqCM,2020-09-08 19:00:00,0.0,0.0
-"Mobiquity Technologies, Inc. Warrant",MOBQW,NasdaqGM,,,
+"Mobiquity Technologies, Inc. Warrant",MOBQW,NasdaqCM,,,
 Mobiv Acquisition Corp,MOBV,NasdaqGM,,0.0,0.0
 Mobiv Acquisition Corp,MOBVU,NasdaqGM,,0.0,0.0
 ,MOBVW,NasdaqGM,,0.0,0.0
@@ -6628,7 +6628,7 @@ AdvisorShares Trust AdvisorShar,MSOX,NYSEArca,,0.0,0.0
 Metal Sky Star Acquisition Corp,MSSA,NasdaqGM,,0.0,0.0
 Metal Sky Star Acquisition Corp,MSSAR,NasdaqGM,,0.0,0.0
 Metal Sky Star Acquisition Corp,MSSAU,NasdaqGM,,0.0,0.0
-Metal Sky Star Acquisition Corp,MSSAW,NasdaqGS,,0.0,0.0
+Metal Sky Star Acquisition Corp,MSSAW,NasdaqGM,,0.0,0.0
 LHA Market State Tactical Beta ,MSTB,BATS,,,
 ETF Series Solutions LHA Market,MSTQ,BATS,,0.0,0.0
 MicroStrategy Incorporated,MSTR,NasdaqGS,,0.0,0.0
@@ -6649,7 +6649,7 @@ ArcelorMittal 5.50% Mandatorily,MTCN,NYSE,2023-02-17 18:00:00,,
 "Mettler-Toledo International, I",MTD,NYSE,,0.0,0.0
 Matador Resources Company,MTDR,NYSE,2023-03-08 18:00:00,0.3,0.0067689535
 Maris-Tech Ltd.,MTEK,NasdaqCM,,0.0,0.0
-Maris-Tech Ltd. Warrants,MTEKW,NasdaqGS,,0.0,0.0
+Maris-Tech Ltd. Warrants,MTEKW,NasdaqCM,,0.0,0.0
 "Molecular Templates, Inc.",MTEM,NasdaqCM,2017-08-01 19:00:00,0.0,0.0
 ,MTEST,NYSE,,,
 "Mannatech, Incorporated",MTEX,NasdaqGS,2023-03-29 19:00:00,1.16,0.06352683
@@ -6699,7 +6699,7 @@ MVB Financial Corp.,MVBF,NasdaqCM,2023-03-14 19:00:00,0.68,0.030262573
 "Blackrock MuniVest Fund, Inc.",MVF,NYSE,2019-01-31 18:00:00,0.402,0.058515288
 "Microvision, Inc.",MVIS,NasdaqGM,,0.0,0.0
 Movella Holdings Inc.,MVLA,NasdaqGM,,0.0,0.0
-,MVLAW,NasdaqGM,,0.0,0.0
+,MVLAW,NasdaqCM,,0.0,0.0
 MV Oil Trust,MVO,NYSE,2023-01-24 18:00:00,2.22,0.2480447
 Amplify ETF Trust Amplify Thema,MVPS,NYSEArca,,,
 ETRACS Monthly Pay 1.5X Leverag,MVRL,NYSEArca,,,
@@ -6762,11 +6762,11 @@ Neuberger Berman ETF Trust Neub,NBCC,NYSEArca,,,
 Neuberger Berman ETF Trust Neub,NBCM,NYSEArca,,,
 Neuberger Berman ETF Trust Neub,NBCT,NYSEArca,,,
 Neuberger Berman ETF Trust Neub,NBDS,NYSEArca,,,
-36814,NBH,NYSE,2019-02-14 18:00:00,0.664,0.06347992
+36814,NBH,NYSE American,2019-02-14 18:00:00,0.664,0.06347992
 National Bank Holdings Corporat,NBHC,NYSE,2023-03-14 19:00:00,0.96,0.027625898
 "Neurocrine Biosciences, Inc.",NBIX,NasdaqGS,,0.0,0.0
 Northeast Bank,NBN,NasdaqGM,2023-02-22 18:00:00,0.04,0.0011223345
-9673,NBO,NYSE,2019-02-14 18:00:00,0.472,0.049424082
+9673,NBO,NYSE American,2019-02-14 18:00:00,0.472,0.049424082
 Nabors Industries Ltd.,NBR,NYSE,2020-04-22 19:00:00,0.0,0.0
 Nabriva Therapeutics plc,NBRV,NasdaqCM,2020-12-02 18:00:00,0.0,0.0
 "NeuBase Therapeutics, Inc.",NBSE,NasdaqCM,2019-02-03 18:00:00,0.0,0.0
@@ -6775,7 +6775,7 @@ Newbury Street Acquisition Corp,NBSTU,NasdaqCM,,0.0,0.0
 Newbury Street Acquisition Corporation Warrants,NBSTW,NasdaqCM,,,
 NBT Bancorp Inc.,NBTB,NasdaqGS,2023-03-14 19:00:00,1.16,0.032823995
 Nanobiotix S.A.,NBTX,NasdaqGS,,0.0,0.0
-12811,NBW,NYSE,2019-02-14 18:00:00,0.538,0.050492726
+12811,NBW,NYSE American,2019-02-14 18:00:00,0.538,0.050492726
 ,NBXG,NYSE,,0.0,0.0
 "NovaBay Pharmaceuticals, Inc.",NBY,NYSE American,,0.0,0.0
 "NACCO Industries, Inc.",NC,NYSE,2023-03-14 19:00:00,0.0,0.0
@@ -6816,7 +6816,7 @@ New England Realty Associates L,NEN,NYSE American,2023-03-30 19:00:00,0.0,0.0
 Neogen Corporation,NEOG,NasdaqGS,,0.0,0.0
 Neonode Inc.,NEON,NasdaqCM,2018-09-30 19:00:00,0.0,0.0
 NeoVolta Inc.,NEOV,NasdaqCM,,0.0,0.0
-NeoVolta Inc. Warrant,NEOVW,NasdaqGM,,0.0,0.0
+NeoVolta Inc. Warrant,NEOVW,NasdaqCM,,0.0,0.0
 "NextEra Energy Partners, LP",NEP,NYSE,2023-02-13 18:00:00,3.095,0.049822927
 "Nephros, Inc.",NEPH,NasdaqCM,2019-07-09 19:00:00,0.0,0.0
 Neptune Wellness Solutions Inc.,NEPT,NasdaqCM,,0.0,0.0
@@ -6872,7 +6872,7 @@ National HealthCare Corporation,NHC,NYSE American,2023-04-30 19:00:00,2.26,0.040
 NewHold Investment Corp. II,NHIC,NasdaqGM,,0.0,0.0
 NewHold Investment Corp. II,NHICU,NasdaqGM,,0.0,0.0
 NewHold Investment Corp. II Warrant,NHICW,NasdaqGM,,,
-Neuberger Berman High Yield Str,NHS,NYSE,2019-02-27 18:00:00,1.086,0.13764258
+Neuberger Berman High Yield Str,NHS,NYSE American,2019-02-27 18:00:00,1.086,0.13764258
 Natural Health Trends Corp. - C,NHTC,NasdaqCM,2023-03-02 18:00:00,0.8,0.15748031
 "NightHawk Biosciences, Inc.",NHWK,NYSE American,2020-12-10 18:00:00,0.0,0.0
 NiSource Inc,NI,NYSE,2023-02-16 18:00:00,0.955,0.034290843
@@ -6916,7 +6916,7 @@ New Mountain Finance Corporatio,NMFC,NasdaqGM,2020-09-29 19:00:00,1.22,0.1052631
 Nouveau Monde Graphite Inc.,NMG,NYSE,,0.0,0.0
 "Nuveen Municipal Income Fund, I",NMI,NYSE,2019-01-31 18:00:00,0.325,0.035596933
 NMI Holdings Inc,NMIH,NasdaqGM,,0.0,0.0
-1525,NML,NYSE,2019-03-28 19:00:00,0.0,0.0
+1525,NML,NYSE American,2019-03-28 19:00:00,0.0,0.0
 Navios Maritime Partners LP,NMM,NYSE,2023-02-13 18:00:00,0.2,0.008507018
 ,NMPRG,,,,
 ,NMPRH,,,,
@@ -6945,7 +6945,7 @@ Innovator Growth-100 Power Buff,NOCT,BATS,,,
 "NI Holdings, Inc.",NODK,NasdaqCM,,0.0,0.0
 "Northern Oil and Gas, Inc.",NOG,NYSE,2023-04-27 19:00:00,0.88,0.032983508
 "Nogin, Inc.",NOGN,NasdaqGM,,0.0,0.0
-,NOGNW,NasdaqGM,,0.0,0.0
+,NOGNW,NasdaqCM,,0.0,0.0
 Nokia Corporation Sponsored,NOK,NYSE,2023-02-13 18:00:00,0.12,0.026726058
 Nuveen Missouri Quality Municip,NOM,NYSE,2019-01-31 18:00:00,0.477,0.04573346
 Nomad Foods Limited,NOMD,NYSE,,0.0,0.0
@@ -6991,10 +6991,10 @@ PIMCO Energy and Tactical Credi,NRGX,NYSE,,0.0,0.0
 Northrim BanCorp Inc,NRIM,NasdaqGS,2023-03-16 19:00:00,2.01,0.044234157
 "Nurix Therapeutics, Inc.",NRIX,NasdaqGM,,0.0,0.0
 Nuveen New York AMT-Free Qualit,NRK,NYSE,2019-01-31 18:00:00,0.574,0.055351976
-70968,NRO,NYSE,2019-02-27 18:00:00,0.374,0.12302632
+70968,NRO,NYSE American,2019-02-27 18:00:00,0.374,0.12302632
 Natural Resource Partners LP Li,NRP,NYSE,2023-03-20 19:00:00,3.0,0.05822981
 NeuroSense Therapeutics Ltd.,NRSN,NasdaqCM,,0.0,0.0
-NEUROSENSE THERAPEUTICS LTD C/W,NRSNW,NasdaqGM,,,
+NEUROSENSE THERAPEUTICS LTD C/W,NRSNW,NasdaqCM,,,
 North European Oil Royality Tru,NRT,NYSE,2023-02-27 18:00:00,2.58,0.25443786
 National Rural Utilities Cooper,NRUC,NYSE,2023-05-14 19:00:00,,
 "NRX Pharmaceuticals, Inc.",NRXP,NasdaqGM,,0.0,0.0
@@ -7130,7 +7130,7 @@ NOVONIX Limited - American Depo,NVX,NasdaqGM,,0.0,0.0
 "Northwest Bancshares, Inc.",NWBI,NasdaqGS,2023-02-13 18:00:00,0.8,0.0625
 NorthWestern Corporation,NWE,NasdaqGS,2023-03-30 19:00:00,2.52,0.04444444
 Norwood Financial Corp.,NWFL,NasdaqGM,2023-01-31 18:00:00,1.13,0.039441537
-NatWest Group plc,NWG,NYSE,2023-05-01 19:00:00,0.138,0.022402233
+NatWest Group plc,NWG,NYSE,2023-05-01 19:00:00,0.138,0.022402087
 Newell Brands Inc.,NWL,NasdaqGS,2023-03-14 19:00:00,0.92,0.07540984
 Nuveen Winslow Large-Cap Growth,NWLG,NYSEArca,,,
 "National Western Life Group, In",NWLI,NasdaqGS,2022-11-30 18:00:00,0.36,0.001512478
@@ -7139,7 +7139,7 @@ Northwest Pipe Company,NWPX,NasdaqGS,,0.0,0.0
 News Corporation,NWS,NasdaqGS,2023-04-11 19:00:00,0.2,0.012507818
 News Corporation,NWSA,NasdaqGS,2023-04-11 19:00:00,0.2,0.012562814
 NWTN Inc.,NWTN,NasdaqCM,,0.0,0.0
-NWTN Inc. Warrant,NWTNW,NasdaqGM,,0.0,0.0
+NWTN Inc. Warrant,NWTNW,NasdaqCM,,0.0,0.0
 Quanex Building Products Corpor,NX,NYSE,2023-03-30 19:00:00,0.32,0.01618614
 Nuveen California Select Tax-Fr,NXC,NYSE,2019-01-31 18:00:00,0.523,0.03962121
 ,NXDT,NYSE,,0.6,0.05597015
@@ -7150,15 +7150,15 @@ Nexgen Energy Ltd.,NXE,NYSE,,0.0,0.0
 "NextGen Healthcare, Inc.",NXGN,NasdaqGS,2016-01-03 18:00:00,0.0,0.0
 Nuveen New Jersey Qualified Mun,NXJ,NYSE,2019-01-31 18:00:00,0.669,0.058479026
 "Nexalin Technology, Inc.",NXL,NasdaqCM,,0.0,0.0
-,NXLIW,NasdaqGM,,0.0,0.0
+,NXLIW,NasdaqCM,,0.0,0.0
 Nuveen New York Select Tax-Free,NXN,NYSE,2019-01-31 18:00:00,0.414,0.034385383
 Nuveen Select Tax Free Income P,NXP,NYSE,2019-01-31 18:00:00,0.546,0.03864119
 NXP Semiconductors N.V.,NXPI,NasdaqGS,2023-04-04 19:00:00,3.38,0.019358534
 NextPlat Corp,NXPL,NasdaqCM,2019-08-18 19:00:00,0.0,0.0
-,NXPLW,NasdaqGM,,,
+,NXPLW,NasdaqCM,,,
 "NexPoint Residential Trust, Inc",NXRT,NYSE,2023-03-30 19:00:00,1.56,0.035278153
 "Nexstar Media Group, Inc.",NXST,NasdaqGS,2023-02-23 18:00:00,3.6,0.022436896
-NEXTracker Inc.,NXT,NasdaqGM,,0.0,0.0
+NEXTracker Inc.,NXT,NasdaqGS,,0.0,0.0
 "NextCure, Inc.",NXTC,NasdaqGS,,0.0,0.0
 Investment Managers Series Trus,NXTE,NYSEArca,,0.0,0.0
 First Trust Indxx NextG ETF,NXTG,NasdaqGM,,,
@@ -7181,7 +7181,7 @@ Strategy Shares Halt Climate Ch,NZRO,NasdaqGM,,,
 SPDR MSCI USA Climate Paris Ali,NZUS,NasdaqGM,,0.0,0.0
 Realty Income Corporation,O,NYSE,2023-03-14 19:00:00,2.969,0.047082145
 "OmniAb, Inc.",OABI,NasdaqGM,,0.0,0.0
-,OABIW,NasdaqGM,,0.0,0.0
+,OABIW,NasdaqCM,,0.0,0.0
 Unified Series Trust OneAscent ,OACP,NYSEArca,,,
 Unified Series Trust OneAscent ,OAEM,NYSEArca,,,
 Listed Funds Trust Teucrium AiL,OAIA,NYSEArca,,0.0,0.0
@@ -7208,7 +7208,7 @@ Optical Cable Corporation,OCC,NasdaqGM,2015-11-19 18:00:00,0.0,0.0
 "OFS Credit Company, Inc. - 5.25",OCCIN,NasdaqCM,2023-07-30 19:00:00,2.2,0.098345995
 "OFS Credit Company, Inc. - 6.12",OCCIO,NasdaqCM,2023-07-30 19:00:00,2.2,0.09243698
 "Ocean Biomedical, Inc.",OCEA,NasdaqCM,,0.0,0.0
-,OCEAW,NasdaqGM,,0.0,0.0
+,OCEAW,NasdaqCM,,0.0,0.0
 IQ Clean Oceans ETF,OCEN,NYSEArca,,,
 OceanFirst Financial Corp.,OCFC,NasdaqGS,2023-02-16 18:00:00,0.77,0.040462427
 OceanFirst Financial Corp. - De,OCFCP,NasdaqGS,2023-02-14 18:00:00,0.77,0.03548387
@@ -7242,7 +7242,7 @@ Orthofix Medical Inc.,OFIX,NasdaqGS,,0.0,0.0
 "Omega Flex, Inc.",OFLX,NasdaqGM,2023-01-03 18:00:00,1.26,0.011639723
 OFS Capital Corporation,OFS,NasdaqGS,2023-03-30 19:00:00,1.16,0.116
 OFS Capital Corporation - 4.95%,OFSSH,NasdaqGS,2023-01-30 18:00:00,,
-"Empire State Realty OP, L.P. Se",OGCP,NYSEArca,2023-03-30 19:00:00,0.14,0.01771031
+"Empire State Realty OP, L.P. Se",OGCP,NYSEArca,2023-03-30 19:00:00,0.14,0.018421052
 OGE Energy Corp,OGE,NYSE,2023-04-27 19:00:00,1.644,0.046050422
 Oragenics Inc.,OGEN,NYSE American,2018-01-21 18:00:00,0.0,0.0
 Organigram Holdings Inc.,OGI,NasdaqGS,,0.0,0.0
@@ -7307,7 +7307,7 @@ SPDR Russell 1000 Low Volatilit,ONEV,NYSEArca,,,
 OneWater Marine Inc.,ONEW,NasdaqGM,2021-07-18 19:00:00,0.0,0.0
 SPDR Russell 1000 Yield Focus E,ONEY,NYSEArca,,0.0,0.0
 Onfolio Holdings Inc.,ONFO,NasdaqCM,,0.0,0.0
-Onfolio Holdings Inc. Warrant,ONFOW,NasdaqGS,,0.0,0.0
+Onfolio Holdings Inc. Warrant,ONFOW,NasdaqCM,,0.0,0.0
 Direxion Shares ETF Trust Direx,ONG,NYSEArca,,,
 Orion Office REIT Inc.,ONL,NYSE,2023-04-16 19:00:00,0.4,0.061728396
 ProShares Online Retail ETF,ONLN,NYSEArca,,0.0,0.0
@@ -7371,7 +7371,7 @@ Oramed Pharmaceuticals Inc.,ORMP,NasdaqCM,,0.0,0.0
 Orrstown Financial Services Inc,ORRF,NasdaqCM,2023-02-13 18:00:00,0.76,0.037698414
 Orchard Therapeutics plc,ORTX,NasdaqCM,,0.0,0.0
 "ProSomnus, Inc.",OSA,NasdaqGM,,0.0,0.0
-"ProSomnus, Inc. Warrant",OSAAW,NasdaqGM,,0.0,0.0
+"ProSomnus, Inc. Warrant",OSAAW,NasdaqCM,,0.0,0.0
 "Old Second Bancorp, Inc.",OSBC,NasdaqGS,2023-02-05 18:00:00,0.2,0.0138217
 "Oscar Health, Inc.",OSCR,NYSE,,0.0,0.0
 Opus Small Cap Value ETF,OSCV,BATS,,,
@@ -7573,7 +7573,7 @@ PDS Biotechnology Corporation,PDSB,NasdaqCM,2019-03-17 19:00:00,0.0,0.0
 John Hancock Premium Dividend F,PDT,NYSE,2019-02-27 18:00:00,1.17,0.09766277
 "Healthpeak Properties, Inc.",PEAK,NYSE,2023-02-22 18:00:00,1.2,0.055736184
 "Pear Therapeutics, Inc.",PEAR,NasdaqCM,,0.0,0.0
-,PEARW,NasdaqGM,,,
+,PEARW,NasdaqCM,,,
 Pebblebrook Hotel Trust,PEB,NYSE,2023-01-16 18:00:00,0.04,0.0028694405
 Peoples Bancorp of North Caroli,PEBK,NasdaqGM,2023-03-14 19:00:00,0.72,0.022374146
 Peoples Bancorp Inc.,PEBO,NasdaqGS,2023-02-20 18:00:00,1.52,0.056737587
@@ -7672,7 +7672,7 @@ Pegasus Digital Mobility Acquis,PGSS,NYSE,,0.0,0.0
 "PGT Innovations, Inc.",PGTI,NYSE,,0.0,0.0
 Invesco Preferred ETF,PGX,NYSEArca,,0.0,0.0
 Pagaya Technologies Ltd.,PGY,NasdaqCM,,0.0,0.0
-Pagaya Technologies Ltd. Warran,PGYWW,NasdaqGS,,0.0,0.0
+Pagaya Technologies Ltd. Warran,PGYWW,NasdaqCM,,0.0,0.0
 Principal Real Estate Income Fu,PGZ,NYSE,2019-04-29 19:00:00,0.0,0.0
 Parker-Hannifin Corporation,PH,NYSE,2023-03-02 18:00:00,5.02,0.016010717
 Pharming Group N.V.,PHAR,NasdaqGM,,0.0,0.0
@@ -7696,7 +7696,7 @@ Pharvaris N.V.,PHVS,NasdaqGS,,0.0,0.0
 PHX Minerals Inc.,PHX,NYSE,2023-03-02 18:00:00,0.075,0.030864198
 Putnam ETF Trust Putnam ESG Hig,PHYD,NYSEArca,,0.0,0.0
 PGIM Active High Yield Bond ETF,PHYL,NYSEArca,,,
-Sprott Physical Gold Trust ETV,PHYS,NYSE,,0.0,0.0
+Sprott Physical Gold Trust ETV,PHYS,NYSE American,,0.0,0.0
 Pyrophyte Acquisition Corp.,PHYT,NYSE,,0.0,0.0
 ,PHYT-WS,,,,
 "Impinj, Inc.",PI,NasdaqGS,,0.0,0.0
@@ -7709,7 +7709,7 @@ Invesco DWA Emerging Markets Mo,PIE,NasdaqGM,2017-12-28 18:00:00,,
 ClearShares Piton Intermediate ,PIFI,NYSEArca,,,
 Polaris Inc.,PII,NYSE,2023-03-14 19:00:00,2.56,0.023831688
 P3 Health Partners Inc.,PIII,NasdaqCM,,0.0,0.0
-,PIIIW,NasdaqGM,,,
+,PIIIW,NasdaqCM,,,
 Kidpik Corp.,PIK,NasdaqCM,,0.0,0.0
 Direxion Daily Pharmaceutical &,PILL,NYSEArca,,,
 Putnam Master Intermediate Inco,PIM,NYSE,2019-01-31 18:00:00,0.264,0.08407643
@@ -7772,7 +7772,7 @@ GraniteShares Platinum Shares E,PLTM,NYSEArca,2015-06-29 19:00:00,,
 Plutonian Acquisition Corp.,PLTN,NasdaqCM,,0.0,0.0
 Plutonian Acquisition Corp.,PLTNR,NasdaqCM,,0.0,0.0
 Plutonian Acquisition Corp.,PLTNU,NasdaqCM,,0.0,0.0
-Plutonian Acquisition Corp. War,PLTNW,NasdaqGM,,0.0,0.0
+Plutonian Acquisition Corp. War,PLTNW,NasdaqCM,,0.0,0.0
 Palantir Technologies Inc.,PLTR,NYSE,,0.0,0.0
 "Plug Power, Inc.",PLUG,NasdaqCM,,0.0,0.0
 Pluri Inc.,PLUR,NasdaqGM,2019-07-24 19:00:00,0.0,0.0
@@ -7863,7 +7863,7 @@ Perpetua Resources Corp.,PPTA,NasdaqCM,2021-01-28 18:00:00,0.0,0.0
 U.S. Diversified Real Estate ET,PPTY,NYSEArca,2018-06-20 19:00:00,,
 Papaya Growth Opportunity Corp.,PPYA,NasdaqGM,,0.0,0.0
 Papaya Growth Opportunity Corp.,PPYAU,NasdaqGM,,0.0,0.0
-Papaya Growth Opportunity Corp.,PPYAW,NasdaqGS,,0.0,0.0
+Papaya Growth Opportunity Corp.,PPYAW,NasdaqGM,,0.0,0.0
 Principal Spectrum Tax-Advantag,PQDI,NYSEArca,,,
 Permian Resources Corporation,PR,NYSE,2023-03-14 19:00:00,0.05,0.0053248135
 ProAssurance Corporation,PRA,NYSE,2023-04-12 19:00:00,0.2,0.011142061
@@ -7876,7 +7876,7 @@ Perdoceo Education Corporation,PRDO,NasdaqGS,,0.0,0.0
 "Pardes Biosciences, Inc.",PRDS,NasdaqGM,,0.0,0.0
 Prenetics Global Limited,PRE,NasdaqGM,,0.0,0.0
 Principal Spectrum Preferred Se,PREF,NYSEArca,,,
-,PRENW,NasdaqGM,,0.0,0.0
+,PRENW,NasdaqCM,,0.0,0.0
 Invesco FTSE RAFI US 1000 ETF,PRF,NYSEArca,,,
 PIMCO U.S. Treasury Index Fund ,PRFD,NYSEArca,,0.0,0.0
 "Perficient, Inc.",PRFT,NasdaqGS,,0.0,0.0
@@ -7893,7 +7893,7 @@ Park National Corporation,PRK,NYSE American,2023-03-09 18:00:00,4.16,0.03430362
 Prelude Therapeutics Incorporat,PRLD,NasdaqGS,,0.0,0.0
 Pearl Holdings Acquisition Corp,PRLH,NasdaqGM,,0.0,0.0
 Pearl Holdings Acquisition Corp,PRLHU,NasdaqGM,,0.0,0.0
-Pearl Holdings Acquisition Corp,PRLHW,NasdaqGS,,0.0,0.0
+Pearl Holdings Acquisition Corp,PRLHW,NasdaqGM,,0.0,0.0
 "Perimeter Solutions, SA",PRM,NYSE,,0.0,0.0
 "Prime Medicine, Inc.",PRME,NasdaqGM,,0.0,0.0
 Primo Water Corporation,PRMW,NYSE,2023-03-26 19:00:00,0.28,0.019217571
@@ -7961,7 +7961,7 @@ AdvisorShares Psychedelics ETF,PSIL,NYSEArca,,,
 Invesco Dynamic Software ETF,PSJ,NYSEArca,,0.06,0.00064322056
 SPDR ICE Preferred Securities E,PSK,NYSEArca,,0.0,0.0
 Invesco DWA Consumer Staples Mo,PSL,NasdaqGM,2018-03-28 19:00:00,,
-Sprott Physical Silver Trust ET,PSLV,NYSE,,0.0,0.0
+Sprott Physical Silver Trust ET,PSLV,NYSE American,,0.0,0.0
 Invesco Balanced Multi-Asset Al,PSMB,BATS,,,
 Invesco Conservative Multi-Asse,PSMC,BATS,,,
 Pacer Swan SOS Moderate (Januar,PSMD,BATS,,,
@@ -8049,7 +8049,7 @@ Invesco VRDO Tax-Free ETF,PVI,NYSEArca,,,
 Permianville Royalty Trust Trus,PVL,NYSE,2023-03-12 19:00:00,0.37,0.17452832
 Power REIT (MD),PW,NYSE American,2013-01-24 18:00:00,0.0,0.0
 Invesco Dynamic Large Cap Growt,PWB,NYSEArca,,0.08,0.001306976
-Invesco Dynamic Market ETF,PWC,NYSEArca,,0.9,0.008586966
+Invesco Dynamic Market ETF,PWC,NYSEArca,,0.9,0.008586992
 "PowerFleet, Inc.",PWFL,NasdaqGM,,0.0,0.0
 "Penns Woods Bancorp, Inc.",PWOD,NasdaqGS,2023-03-27 19:00:00,1.28,0.055387277
 Perella Weinberg Partners,PWP,NasdaqGS,2023-03-09 18:00:00,0.28,0.030501088
@@ -8058,7 +8058,7 @@ Pacer WealthShield ETF,PWS,BATS,,,
 "PowerSchool Holdings, Inc.",PWSC,NYSE,,0.0,0.0
 PowerUp Acquisition Corp.,PWUP,NasdaqGM,,0.0,0.0
 PowerUp Acquisition Corp.,PWUPU,NasdaqGM,,0.0,0.0
-PowerUp Acquisition Corp. Warra,PWUPW,NasdaqGS,,0.0,0.0
+PowerUp Acquisition Corp. Warra,PWUPW,NasdaqGM,,0.0,0.0
 Invesco Dynamic Large Cap Value,PWV,NYSEArca,,0.87,0.019759256
 Invesco California AMT-Free Mun,PWZ,NYSEArca,,,
 "P10, Inc.",PX,NYSE,2023-03-30 19:00:00,0.09,0.009879255
@@ -8112,7 +8112,7 @@ Global X S&P 500 Quality Divide,QDIV,NYSEArca,,,
 Pacer Metaurus US Large Cap Div,QDPL,NYSEArca,,,
 Quadro Acquisition One Corp.,QDRO,NasdaqCM,,0.0,0.0
 Quadro Acquisition One Corp.,QDROU,NasdaqCM,,0.0,0.0
-,QDROW,NasdaqGM,,0.0,0.0
+,QDROW,NasdaqCM,,0.0,0.0
 FlexShares Quality Dynamic Inde,QDYN,NYSEArca,,,
 SPDR MSCI EAFE StrategicFactors,QEFA,NYSEArca,,0.0,0.0
 SPDR MSCI Emerging Markets Stra,QEMM,NYSEArca,,,
@@ -8145,7 +8145,7 @@ Alpha Architect U.S. Quantitati,QMOM,BATS,,,
 Qomolangma Acquisition Corp.,QOMO,NasdaqCM,,0.0,0.0
 Qomolangma Acquisition Corp.,QOMOR,NasdaqCM,,0.0,0.0
 Qomolangma Acquisition Corp.,QOMOU,NasdaqCM,,0.0,0.0
-Qomolangma Acquisition Corp. Wa,QOMOW,NasdaqGM,,0.0,0.0
+Qomolangma Acquisition Corp. Wa,QOMOW,NasdaqCM,,0.0,0.0
 American Century ETF Trust Amer,QPFF,BATS,,,
 AdvisorShares Q Dynamic Growth ,QPX,NYSEArca,,,
 Simplify Nasdaq 100 PLUS Convex,QQC,NasdaqGM,,,
@@ -8181,7 +8181,7 @@ Amplify ETF Trust Amplify Black,QSWN,NYSEArca,,,
 Innovator Growth Accelerated Pl,QTAP,BATS,,,
 First Trust NASDAQ-100-Technolo,QTEC,NasdaqGM,2017-03-30 19:00:00,,
 QualTek Services Inc.,QTEK,NasdaqCM,,0.0,0.0
-,QTEKW,NasdaqGM,,0.0,0.0
+,QTEKW,NasdaqCM,,0.0,0.0
 Innovator ETFs Trust Innovator ,QTJA,BATS,,,
 Innovator Growth Accelerated Pl,QTJL,BATS,,,
 Innovator Growth Accelerated Pl,QTOC,BATS,,,
@@ -8255,7 +8255,7 @@ Ready Capital Corproation,RC,NYSE,2023-01-30 18:00:00,1.66,0.1688708
 Ready Capital Corporation 7.00%,RCA,NYSE,2023-05-14 19:00:00,,
 Revelstone Capital Acquisition ,RCAC,NasdaqGM,,0.0,0.0
 Revelstone Capital Acquisition ,RCACU,NasdaqGM,,0.0,0.0
-Revelstone Capital Acquisition ,RCACW,NasdaqGS,,0.0,0.0
+Revelstone Capital Acquisition ,RCACW,NasdaqGM,,0.0,0.0
 "Red Cat Holdings, Inc.",RCAT,NasdaqCM,2019-07-31 19:00:00,0.0,0.0
 Ready Capital Corporation 6.20%,RCB,NYSE,2023-04-29 19:00:00,1.6,0.06989952
 Ready Capital Corporation 5.75%,RCC,NYSE,2023-04-29 19:00:00,,
@@ -8266,7 +8266,7 @@ RCF Acquisition Corp.,RCFA,NYSE,,0.0,0.0
 153389,RCG,NYSE,2008-10-21 19:00:00,0.004,0.0023529413
 "Rogers Communication, Inc.",RCI,NYSE,2023-04-02 19:00:00,2.0,0.04541326
 "Rocket Pharmaceuticals, Inc.",RCKT,NasdaqGM,2018-01-04 18:00:00,0.0,0.0
-"Rocket Pharmaceuticals, Inc. Wa",RCKTW,NasdaqGM,,0.0,0.0
+"Rocket Pharmaceuticals, Inc. Wa",RCKTW,NasdaqCM,,0.0,0.0
 "Rocky Brands, Inc.",RCKY,NasdaqGS,2023-03-14 19:00:00,0.62,0.026282324
 D/B/A Royal Caribbean Cruises L,RCL,NYSE,2020-04-05 19:00:00,0.0,0.0
 Rosecliff Acquisition Corp I,RCLF,NasdaqCM,,0.0,0.0
@@ -8322,7 +8322,7 @@ SSGA Active Trust SPDR Bloomber,REMG,NYSEArca,,,
 VanEck Rare Earth/Strategic Met,REMX,NYSEArca,,0.0,0.0
 Cartesian Growth Corporation II,RENE,NasdaqGM,,0.0,0.0
 Cartesian Growth Corporation II,RENEU,NasdaqGM,,0.0,0.0
-Cartesian Growth Corporation II,RENEW,NasdaqGS,,0.0,0.0
+Cartesian Growth Corporation II,RENEW,NasdaqGM,,0.0,0.0
 Renren Inc.,RENN,NYSE,2022-12-20 18:00:00,0.0,0.0
 "Rent the Runway, Inc.",RENT,NasdaqGS,,0.0,0.0
 Harbor ETF Trust Harbor Energy ,RENW,NYSEArca,,,
@@ -8339,7 +8339,7 @@ Direxion Daily Retail Bull 3X S,RETL,NYSEArca,,,
 "ReTo Eco-Solutions, Inc.",RETO,NasdaqCM,,0.0,0.0
 Reunion Neuroscience Inc.,REUN,NasdaqGS,2020-10-05 19:00:00,0.0,0.0
 "Revelation Biosciences, Inc.",REVB,NasdaqCM,,0.0,0.0
-,REVBW,NasdaqGM,,,
+,REVBW,NasdaqCM,,,
 Alpine Acquisition Corporation,REVE,NasdaqCM,,0.0,0.0
 Alpine Acquisition Corporation,REVEU,NasdaqCM,,0.0,0.0
 Alpine Acquisition Corporation Warrant,REVEW,NasdaqCM,,,
@@ -8382,7 +8382,7 @@ REGENXBIO Inc.,RGNX,NasdaqGS,,0.0,0.0
 Regis Corporation,RGS,NYSE,2013-11-18 18:00:00,0.0,0.0
 "Royce Global Value Trust, Inc.",RGT,NYSE,2018-12-26 18:00:00,0.0,0.0
 "Rigetti Computing, Inc.",RGTI,NasdaqCM,,0.0,0.0
-"Rigetti Computing, Inc. Warrant",RGTIW,NasdaqGM,,0.0,0.0
+"Rigetti Computing, Inc. Warrant",RGTIW,NasdaqCM,,0.0,0.0
 RH,RH,NYSE,,0.0,0.0
 BNY Mellon ETF Trust BNY Mellon,RHCB,NYSEArca,,,
 "Regional Health Properties, Inc",RHE,NYSE American,2019-01-01 18:00:00,0.0,0.0
@@ -9105,7 +9105,7 @@ SMX (Security Matters) Public L,SMXWW,NasdaqCM,,0.0,0.0
 Snap-On Incorporated,SNA,NYSE,2023-03-09 18:00:00,5.88,0.024877306
 "Snail, Inc.",SNAL,NasdaqCM,,0.0,0.0
 Snap Inc.,SNAP,NYSE,,0.0,0.0
-,SNAV,NYSE American,,0.0,0.0
+,SNAV,NYSE,,0.0,0.0
 "Stryve Foods, Inc.",SNAX,NasdaqCM,,0.0,0.0
 Andina Acquisition Corp. III,SNAXW,NasdaqCM,,,
 Sleep Number Corporation,SNBR,NasdaqGS,,0.0,0.0
@@ -9407,7 +9407,7 @@ Supernova Partners Acquisition ,STRE,NYSE,,0.0,0.0
 Stratus Properties Inc.,STRS,NasdaqGS,2022-09-28 19:00:00,0.0,0.0
 STRATTEC SECURITY CORPORATION,STRT,NasdaqGM,2020-03-26 19:00:00,0.0,0.0
 EA Series Trust Strive 500 ETF,STRV,NYSEArca,,,
-"Strawberry Fields REIT, Inc.",STRW,NYSE American,2023-03-30 19:00:00,0.1,0.014104571
+"Strawberry Fields REIT, Inc.",STRW,NYSE American,2023-03-30 19:00:00,0.1,0.014285714
 "Satsuma Pharmaceuticals, Inc.",STSA,NasdaqGM,,0.0,0.0
 Sharps Technology Inc.,STSS,NasdaqCM,,0.0,0.0
 Sharps Technology Inc. Warrant,STSSW,NasdaqCM,,0.0,0.0
@@ -9541,7 +9541,7 @@ TravelCenters of America Inc.  ,TANNL,NasdaqGS,2023-11-29 18:00:00,,
 TravelCenters of America Inc.  ,TANNZ,NasdaqGS,2023-10-15 19:00:00,,
 Taoping Inc.,TAOP,NasdaqCM,2020-07-29 19:00:00,0.0,0.0
 Molson Coors Beverage Company,TAP,NYSE,2023-03-16 19:00:00,1.52,0.02919708
-Molson Coors Beverage Company M,TAP-A,NYSE,2023-03-16 19:00:00,1.52,0.026211414
+Molson Coors Beverage Company M,TAP-A,NYSE,2023-03-16 19:00:00,1.52,0.024319999
 "Protara Therapeutics, Inc.",TARA,NasdaqGM,2020-01-09 18:00:00,0.0,0.0
 AXS 2X Innovation ETF,TARK,NasdaqGM,,,
 Taro Pharmaceutical Industries ,TARO,NYSE,2018-12-27 18:00:00,0.0,0.0
@@ -9691,7 +9691,7 @@ TG Venture Acquisition Corp. Warrants,TGVCW,NasdaqGM,,,
 Target Hospitality Corp.,TH,NasdaqCM,,0.0,0.0
 Tenet Healthcare Corporation,THC,NYSE,,0.0,0.0
 TH International Limited,THCH,NasdaqCM,,0.0,0.0
-,THCHW,NasdaqCM,,0.0,0.0
+,THCHW,NasdaqGM,,0.0,0.0
 Thunder Bridge Capital Partners,THCP,NasdaqGM,,0.0,0.0
 Thunder Bridge Capital Partners,THCPU,NasdaqGM,,0.0,0.0
 "Thunder Bridge Capital Partners IV, Inc. Warrant",THCPW,NasdaqGM,,,
@@ -9809,7 +9809,7 @@ Talon 1 Acquisition Corp.,TOAC,NasdaqGM,,0.0,0.0
 Talon 1 Acquisition Corp.,TOACU,NasdaqGM,,0.0,0.0
 Talon 1 Acquisition Corp. Warrant,TOACW,NasdaqGM,,,
 "The Oncology Institute, Inc.",TOI,NasdaqCM,,0.0,0.0
-,TOIIW,NasdaqCM,,,
+,TOIIW,NasdaqGM,,,
 iShares MSCI Kokusai ETF,TOK,NYSEArca,,,
 Cambria Cannabis ETF,TOKE,BATS,,0.0,0.0
 "Toll Brothers, Inc.",TOL,NYSE,2023-04-20 19:00:00,0.8,0.013932428
@@ -9919,7 +9919,7 @@ AXS TSLA Bear Daily ETF,TSLQ,NasdaqGM,,,
 Direxion Daily TSLA Bear 1X Sha,TSLS,NasdaqGM,,0.0,0.0
 "Sixth Street Specialty Lending,",TSLX,NYSE,2023-03-30 19:00:00,1.73,0.1006399
 Tidal ETF Trust II YieldMax TSL,TSLY,NYSEArca,,0.0,0.0
-Taiwan Semiconductor Manufactur,TSM,NYSE,2023-07-12 19:00:00,11.0,0.12753446
+Taiwan Semiconductor Manufactur,TSM,NYSE,2023-07-12 19:00:00,11.0,0.12753443
 Thrivent ETF Trust Thrivent Sma,TSME,NYSEArca,,0.0,0.0
 "Tyson Foods, Inc.",TSN,NYSE,2023-06-14 19:00:00,1.86,0.031991746
 Innovator Triple Stacker ETF - ,TSOC,BATS,,,
@@ -10248,7 +10248,7 @@ Vident U.S. Bond Strategy ETF,VBND,NYSEArca,2018-06-20 19:00:00,,
 VersaBank,VBNK,NasdaqGS,2023-04-29 19:00:00,0.1,0.014025246
 Viscogliosi Brothers Acquisitio,VBOC,NasdaqGM,,0.0,0.0
 Viscogliosi Brothers Acquisitio,VBOCU,NasdaqGM,,0.0,0.0
-Viscogliosi Brothers Acquisitio,VBOCW,NasdaqGM,,0.0,0.0
+Viscogliosi Brothers Acquisitio,VBOCW,NasdaqGS,,0.0,0.0
 Vanguard Small-Cap Value ETF,VBR,NYSEArca,,3.131,0.020424005
 "Veritex Holdings, Inc.",VBTX,NasdaqGM,2023-02-23 18:00:00,0.8,0.04195071
 Visteon Corporation,VC,NasdaqGS,2016-01-21 18:00:00,0.0,0.0
@@ -10311,7 +10311,7 @@ Vanguard U.S. Minimum Volatilit,VFMV,BATS,,,
 Vanguard U.S. Quality Factor ET,VFQY,BATS,,,
 Vanguard Wellington Fund ETF,VFVA,BATS,,0.0,0.0
 "Verde Clean Fuels, Inc.",VGAS,NasdaqCM,,0.0,0.0
-,VGASW,NasdaqCM,,0.0,0.0
+,VGASW,NasdaqGM,,0.0,0.0
 Virtus Global Multi-Sector Inco,VGI,NYSE,2019-02-18 18:00:00,0.0,0.0
 Vanguard Intermediate-Term Trea,VGIT,NasdaqGM,2017-06-06 19:00:00,0.0,0.0
 Vanguard FTSEEuropean ETF,VGK,NYSEArca,,1.781,0.031196358
@@ -10531,7 +10531,7 @@ Invesco Senior Income Trust  (D,VVR,NYSE,2019-02-27 18:00:00,0.251,0.06693333
 Valvoline Inc.,VVV,NYSE,2022-12-14 18:00:00,0.5,0.014961102
 "V2X, Inc.",VVX,NYSE,,0.0,0.0
 "Vintage Wine Estates, Inc.",VWE,NasdaqGM,,0.0,0.0
-"Vintage Wine Estates, Inc. Warrants",VWEWW,NasdaqCM,,0.0,0.0
+"Vintage Wine Estates, Inc. Warrants",VWEWW,NasdaqGM,,0.0,0.0
 Virtus WMC International Divide,VWID,BATS,,,
 Vanguard FTSE Emerging Markets ,VWO,NYSEArca,,1.122,0.029180754
 Vanguard Emerging Markets Gover,VWOB,NasdaqGM,2017-06-06 19:00:00,0.0,0.0
@@ -10567,7 +10567,7 @@ Waverley Capital Acquisition Co,WAVC,NYSE,,0.0,0.0
 Eco Wave Power Global AB (publ),WAVE,NasdaqCM,,0.0,0.0
 Western Acquisition Ventures Co,WAVS,NasdaqGM,,0.0,0.0
 Western Acquisition Ventures Co,WAVSU,NasdaqGM,,0.0,0.0
-Western Acquisition Ventures Co,WAVSW,NasdaqGM,,0.0,0.0
+Western Acquisition Ventures Co,WAVSW,NasdaqGS,,0.0,0.0
 Weibo Corporation,WB,NasdaqGS,,0.0,0.0
 "Walgreens Boots Alliance, Inc.",WBA,NasdaqGS,2023-03-09 18:00:00,1.915,0.057096
 WisdomTree Trust WisdomTree Bat,WBAT,BATS,,0.0,0.0
@@ -10604,7 +10604,7 @@ Direxion Daily Dow Jones Intern,WEBS,NYSEArca,,,
 Listed Funds Trust Roundhill Ca,WEED,BATS,,,
 Dynamic Shares Trust Dynamic Sh,WEIX,NYSEArca,,,
 Wejo Group Limited,WEJO,NasdaqGS,,0.0,0.0
-Wejo Group Limited Warrant,WEJOW,NasdaqGS,,,
+Wejo Group Limited Warrant,WEJOW,NasdaqGM,,,
 Integrated Wellness Acquisition,WEL,NYSE,,0.0,0.0
 ,WEL-WS,,,,
 Welltower Inc.,WELL,NYSE,2023-03-07 18:00:00,2.44,0.034245614
@@ -10628,7 +10628,7 @@ Valkyrie Bitcoin Miners ETF,WGMI,NasdaqGM,,0.0,0.0
 "Winnebago Industries, Inc.",WGO,NYSE,2023-01-24 18:00:00,0.81,0.014255544
 WisdomTree U.S. Growth & Moment,WGRO,NasdaqGM,,,
 GeneDx Holdings Corp.,WGS,NasdaqGS,,0.0,0.0
-,WGSWW,NasdaqGS,,,
+,WGSWW,NasdaqGM,,,
 "Wyndham Hotels & Resorts, Inc.",WH,NYSE,2023-03-28 19:00:00,1.28,0.018974207
 "Cactus, Inc. Class A Common Sto",WHD,NYSE,2023-03-15 19:00:00,0.44,0.011643291
 "WhiteHorse Finance, Inc.",WHF,NasdaqGS,2023-04-03 19:00:00,1.42,0.11102424
@@ -10677,7 +10677,7 @@ Williams Industrial Services Gr,WLMS,NYSE American,2015-03-26 19:00:00,0.0,0.0
 ETF Opportunities Trust WealthT,WLTG,NYSEArca,,,
 LifeGoal Wealth Builder ETF,WLTH,NYSEArca,,,
 "John Wiley & Sons, Inc.",WLY,NYSE,2023-01-10 18:00:00,1.387,0.038346697
-"John Wiley & Sons, Inc.",WLYB,NYSE,2023-01-10 18:00:00,1.387,0.038635094
+"John Wiley & Sons, Inc.",WLYB,NYSE,2023-01-10 18:00:00,1.387,0.040249564
 "Waste Management, Inc.",WM,NYSE,2023-03-23 19:00:00,2.6,0.016767703
 "Williams Companies, Inc. (The)",WMB,NYSE,2023-03-26 19:00:00,1.7,0.0590688
 Western Asset Mortgage Capital ,WMC,NYSE,2023-01-25 18:00:00,1.6,0.18497111
@@ -10721,7 +10721,7 @@ WillScot Mobile Mini Holdings C,WSC,NasdaqCM,,0.0,0.0
 WSFS Financial Corporation,WSFS,NasdaqGS,2023-02-23 18:00:00,0.56,0.014180805
 "Williams-Sonoma, Inc.",WSM,NYSE,2023-02-23 18:00:00,3.05,0.025714526
 "Watsco, Inc.",WSO,NYSE,2023-01-30 18:00:00,8.55,0.028457314
-"Watsco, Inc.",WSO-B,NYSE,2023-01-30 18:00:00,8.55,0.028624807
+"Watsco, Inc.",WSO-B,NYSE,2023-01-30 18:00:00,8.55,0.028278485
 Whitestone REIT,WSR,NYSE,2023-06-12 19:00:00,0.467,0.05154525
 "West Pharmaceutical Services, I",WST,NYSE,2023-05-02 19:00:00,0.73,0.0022420837
 "WisdomTree, Inc.",WT,NYSE,2023-02-28 18:00:00,0.12,0.021052632
@@ -10867,7 +10867,7 @@ XPAC Acquisition Corp.,XPAXU,NasdaqCM,,0.0,0.0
 XPAC Acquisition Corp. Warrant,XPAXW,NasdaqCM,,,
 Power & Digital Infrastructure ,XPDB,NasdaqGM,,0.0,0.0
 Power & Digital Infrastructure ,XPDBU,NasdaqGM,,0.0,0.0
-Power & Digital Infrastructure ,XPDBW,NasdaqGM,,0.0,0.0
+Power & Digital Infrastructure ,XPDBW,NasdaqGS,,0.0,0.0
 "XPEL, Inc.",XPEL,NasdaqCM,,0.0,0.0
 Xperi Inc.,XPER,NYSE,2022-09-18 19:00:00,0.0,0.0
 XPeng Inc.,XPEV,NYSE,,0.0,0.0
@@ -10950,7 +10950,7 @@ Yoshiharu Global Co.,YOSH,NasdaqCM,,0.0,0.0
 Yotta Acquisition Corporation,YOTA,NasdaqGM,,0.0,0.0
 Yotta Acquisition Corporation,YOTAR,NasdaqGM,,0.0,0.0
 Yotta Acquisition Corporation,YOTAU,NasdaqGM,,0.0,0.0
-Yotta Acquisition Corporation W,YOTAW,NasdaqGM,,0.0,0.0
+Yotta Acquisition Corporation W,YOTAW,NasdaqGS,,0.0,0.0
 "Clear Secure, Inc.",YOU,NYSE,2022-12-06 18:00:00,0.0,0.0
 YPF Sociedad Anonima,YPF,NYSE,2019-07-17 19:00:00,0.0,0.0
 Arrow Reverse Cap 500 ETF,YPS,BATS,,0.0,0.0
@@ -10987,7 +10987,7 @@ Zeta Global Holdings Corp.,ZETA,NYSE,,0.0,0.0
 "Lightning eMotors, Inc",ZEV,NYSE,,0.0,0.0
 ,ZEV-WS,,,,
 "ZeroFox Holdings, Inc.",ZFOX,NasdaqGM,,0.0,0.0
-,ZFOXW,NasdaqCM,,0.0,0.0
+,ZFOXW,NasdaqGM,,0.0,0.0
 "Zillow Group, Inc.",ZG,NasdaqGS,,0.0,0.0
 The Generation Z ETF,ZGEN,NasdaqGM,,,
 Ermenegildo Zegna N.V.,ZGN,NYSE,2022-07-27 19:00:00,0.079,0.0060956795
@@ -11025,7 +11025,7 @@ Zentek Ltd.,ZTEK,NasdaqCM,,0.0,0.0
 ZTO Express (Cayman) Inc.,ZTO,NYSE,2022-04-25 19:00:00,0.0,0.0
 Virtus Global Dividend & Income,ZTR,NYSE,2019-02-18 18:00:00,0.96,0.15660684
 Zoetis Inc.,ZTS,NYSE,2023-05-31 19:00:00,1.3,0.007947667
-,ZTST,NYSE American,,,
+,ZTST,NYSE,,,
 Zumiez Inc.,ZUMZ,NasdaqGS,,0.0,0.0
 "Zuora, Inc.",ZUO,NYSE,,0.0,0.0
 Zevia PBC,ZVIA,NYSE,,0.0,0.0
