@@ -61,13 +61,18 @@ for batch in stocks_batch:
             trailingAnnualDividendYield = json_response["quoteResponse"]["result"][i]["trailingAnnualDividendYield"]
         else:
             trailingAnnualDividendYield = None
+        if "averageAnalystRating" in json_response["quoteResponse"]["result"][i]:
+            averageAnalystRating = json_response["quoteResponse"]["result"][i]["averageAnalystRating"]
+        else:
+            averageAnalystRating = None
         data = {
             "shortName": [shortName],
             "symbol": [symbol],
             "fullExchangeName": [fullExchangeName],
             "dividendDate": [dividendDate],
             "trailingAnnualDividendRate": [trailingAnnualDividendRate],
-            "trailingAnnualDividendYield": [trailingAnnualDividendYield]
+            "trailingAnnualDividendYield": [trailingAnnualDividendYield],
+            "averageAnalystRating": [averageAnalystRating]
         }
         df = pd.DataFrame(data)
         dfs.append(df)
