@@ -20,3 +20,8 @@ Python application to recommend high dividend yeld stocks
 - Formula: ```Annual Dividend per Share x Number of Shares = Trailing Annual Dividend Rate```
 
 - Example: If a company pays an annual dividend of $1 per share and has 1 million outstanding shares, then its trailing annual dividend rate is $1 million.
+
+
+
+
+<sub>*Disclaimer: This application is intended for educational and informational purposes only and is not intended to provide investment advice. Any recommendations or suggestions made by this application should not be construed as an endorsement or recommendation to buy, sell or hold any particular security. Users are solely responsible for their own investment decisions and should perform their own research and due diligence before making any investment decisions.*</sub>
