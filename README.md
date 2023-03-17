@@ -1,5 +1,7 @@
 # dividends
-Python application to search for stocks with high yeld dividends
+Python application to recommend with high dividend yeld stocks
+
+[Top 50 stocks by dividend yeld](https://github.com/elderibeiro/dividends/blob/main/dividends.md)
 
 ### Dividend Yield: A financial ratio that measures the amount of dividends paid out by a company relative to its stock price.
 
