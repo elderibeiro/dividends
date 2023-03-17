@@ -1,5 +1,5 @@
 # dividends
-Python application to recommend with high dividend yeld stocks
+Python application to recommend high dividend yeld stocks
 
 [Top 50 stocks by dividend yeld](https://github.com/elderibeiro/dividends/blob/main/dividends.md)
 
