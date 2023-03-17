@@ -12,7 +12,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
 
 #define the list of stocks to loop through
-#stocks = ["AAPL", "MSFT", "XOM", "NVDA", "PBR", "META", "CCJ", "BDORY", "RSX", "QQQ"]
+#api doc @ https://www.alphavantage.co/documentation/#listing-status
 response = requests.get("https://www.alphavantage.co/query?function=LISTING_STATUS&apikey=demo", headers=headers, verify=False)
 
 #convert response from csv to pandas datagrame
@@ -35,6 +35,7 @@ for batch in stocks_batch:
     query_params = {"symbols": ",".join(batch)}
 
     #get quote for the batch
+    #api doc @ https://cryptocointracker.com/yahoo-finance/yahoo-finance-api
     response = requests.get("https://query1.finance.yahoo.com/v7/finance/quote", params=query_params, headers=headers, verify=False)
     json_response = json.loads(response.text)
 
@@ -65,6 +66,10 @@ for batch in stocks_batch:
             averageAnalystRating = json_response["quoteResponse"]["result"][i]["averageAnalystRating"]
         else:
             averageAnalystRating = None
+        if "trailingPE" in json_response["quoteResponse"]["result"][i]:
+            trailingPE = json_response["quoteResponse"]["result"][i]["trailingPE"]
+        else:
+            trailingPE = None
         data = {
             "shortName": [shortName],
             "symbol": [symbol],
@@ -72,6 +77,7 @@ for batch in stocks_batch:
             "dividendDate": [dividendDate],
             "trailingAnnualDividendYield": [trailingAnnualDividendYield],
             "averageAnalystRating": [averageAnalystRating],
+            "trailingPE": [trailingPE],
             "trailingAnnualDividendRate": [trailingAnnualDividendRate]
         }
         df = pd.DataFrame(data)
